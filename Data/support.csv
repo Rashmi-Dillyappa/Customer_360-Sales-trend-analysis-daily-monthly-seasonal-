@@ -1,0 +1,1001 @@
+ticket_id,customer_id,issue_type,resolution_time_hrs,status
+1,527,Product Issue,33.04,Pending
+2,754,Delivery,69.05,Escalated
+3,498,Payment,19.52,Resolved
+4,153,General Query,49.47,Pending
+5,53,Delivery,67.79,Pending
+6,149,Refund,48.11,Escalated
+7,503,Product Issue,62.86,Escalated
+8,870,Refund,59.75,Escalated
+9,450,Delivery,26.57,Pending
+10,219,Delivery,43.61,Resolved
+11,625,General Query,12.09,Resolved
+12,800,Product Issue,39.02,Escalated
+13,277,Delivery,17.36,Resolved
+14,452,Refund,53.81,Pending
+15,428,General Query,38.49,Resolved
+16,83,Refund,30.2,Pending
+17,962,Product Issue,20.08,Escalated
+18,218,General Query,71.91,Resolved
+19,738,General Query,6.09,Pending
+20,782,General Query,4.09,Escalated
+21,527,Payment,16.43,Escalated
+22,404,General Query,69.95,Escalated
+23,290,Refund,70.53,Escalated
+24,420,Refund,47.5,Resolved
+25,339,Product Issue,63.49,Pending
+26,777,Delivery,16.19,Resolved
+27,711,Delivery,70.01,Pending
+28,670,Payment,11.14,Escalated
+29,845,General Query,8.18,Resolved
+30,987,Payment,8.97,Escalated
+31,959,Product Issue,41.69,Pending
+32,419,Product Issue,56.45,Escalated
+33,909,Delivery,27.03,Resolved
+34,207,Product Issue,70.43,Resolved
+35,686,General Query,31.84,Pending
+36,696,Refund,11.68,Pending
+37,265,Product Issue,34.08,Resolved
+38,983,Payment,49.21,Resolved
+39,758,General Query,60.09,Resolved
+40,36,Product Issue,33.57,Resolved
+41,373,Product Issue,43.15,Pending
+42,488,General Query,19.98,Resolved
+43,259,Product Issue,46.86,Pending
+44,994,Refund,71.0,Resolved
+45,531,Delivery,4.48,Resolved
+46,924,General Query,63.94,Escalated
+47,23,Payment,40.92,Escalated
+48,104,Product Issue,18.9,Resolved
+49,241,Delivery,68.8,Pending
+50,903,Payment,35.32,Resolved
+51,873,Payment,24.55,Escalated
+52,716,Refund,13.89,Resolved
+53,253,Delivery,18.36,Escalated
+54,142,General Query,60.13,Resolved
+55,814,Delivery,44.62,Resolved
+56,655,Delivery,65.84,Pending
+57,451,Payment,17.47,Escalated
+58,783,Refund,9.6,Escalated
+59,307,Refund,1.43,Escalated
+60,984,Delivery,37.06,Pending
+61,500,Delivery,71.88,Resolved
+62,622,Product Issue,50.34,Pending
+63,8,Payment,22.9,Resolved
+64,69,General Query,63.26,Pending
+65,702,General Query,56.5,Pending
+66,691,Refund,2.09,Escalated
+67,575,Payment,59.0,Pending
+68,68,Refund,22.34,Resolved
+69,718,General Query,11.63,Pending
+70,912,Delivery,17.07,Pending
+71,980,Payment,34.27,Resolved
+72,408,Payment,31.17,Escalated
+73,518,Product Issue,21.51,Resolved
+74,119,Delivery,13.23,Resolved
+75,825,Delivery,55.12,Resolved
+76,31,Refund,71.3,Pending
+77,518,Payment,56.22,Pending
+78,483,Refund,22.01,Resolved
+79,207,Delivery,18.38,Resolved
+80,669,Product Issue,16.45,Escalated
+81,579,Payment,10.71,Pending
+82,971,Delivery,40.14,Pending
+83,387,Product Issue,43.98,Pending
+84,412,General Query,51.09,Pending
+85,842,Delivery,49.3,Resolved
+86,370,General Query,21.76,Resolved
+87,353,Refund,24.45,Escalated
+88,944,General Query,49.39,Pending
+89,336,Delivery,25.81,Pending
+90,891,General Query,16.1,Resolved
+91,906,Payment,27.58,Escalated
+92,289,Delivery,20.32,Resolved
+93,996,Product Issue,7.27,Pending
+94,963,General Query,59.94,Pending
+95,965,Payment,61.57,Escalated
+96,140,Refund,16.6,Resolved
+97,953,Refund,5.6,Pending
+98,300,General Query,53.46,Pending
+99,13,Refund,16.02,Escalated
+100,664,Product Issue,28.93,Pending
+101,428,Delivery,5.55,Pending
+102,825,Payment,17.07,Resolved
+103,864,General Query,57.3,Escalated
+104,400,Refund,58.11,Escalated
+105,992,Delivery,15.7,Escalated
+106,109,Product Issue,24.85,Resolved
+107,485,Refund,10.53,Escalated
+108,888,Refund,6.27,Pending
+109,356,Payment,71.44,Escalated
+110,149,Product Issue,47.55,Pending
+111,879,Product Issue,39.49,Escalated
+112,716,General Query,55.35,Escalated
+113,307,Payment,60.65,Resolved
+114,533,General Query,58.28,Escalated
+115,60,Payment,2.17,Escalated
+116,435,Product Issue,14.26,Resolved
+117,21,Payment,47.5,Pending
+118,875,Payment,27.68,Escalated
+119,382,Payment,70.76,Escalated
+120,245,Delivery,48.24,Pending
+121,902,Delivery,68.91,Resolved
+122,73,Product Issue,15.3,Escalated
+123,449,Payment,62.34,Resolved
+124,76,Product Issue,23.82,Pending
+125,698,Delivery,71.26,Pending
+126,590,Payment,12.2,Resolved
+127,390,General Query,37.66,Pending
+128,577,Delivery,57.29,Pending
+129,342,Delivery,31.72,Escalated
+130,290,Delivery,34.23,Resolved
+131,568,Payment,71.03,Escalated
+132,331,Refund,31.2,Resolved
+133,259,General Query,43.89,Escalated
+134,426,General Query,4.87,Pending
+135,702,Product Issue,60.8,Resolved
+136,6,Payment,47.02,Resolved
+137,6,Delivery,29.69,Resolved
+138,191,Refund,2.15,Resolved
+139,148,Payment,43.01,Pending
+140,405,Payment,1.9,Pending
+141,258,Refund,1.09,Pending
+142,730,Delivery,44.74,Escalated
+143,479,Payment,14.42,Pending
+144,90,General Query,14.62,Escalated
+145,824,General Query,47.38,Escalated
+146,864,Refund,4.81,Pending
+147,10,Delivery,23.25,Pending
+148,87,Refund,11.61,Pending
+149,762,Payment,42.19,Escalated
+150,838,General Query,47.99,Resolved
+151,151,Product Issue,52.2,Pending
+152,988,Refund,19.12,Escalated
+153,625,Product Issue,7.34,Escalated
+154,30,Product Issue,6.59,Pending
+155,128,General Query,31.26,Escalated
+156,78,Refund,68.15,Pending
+157,421,Product Issue,16.46,Escalated
+158,55,Payment,19.23,Resolved
+159,480,Delivery,8.16,Escalated
+160,305,Delivery,44.0,Pending
+161,546,General Query,49.27,Resolved
+162,105,Refund,46.65,Pending
+163,172,Refund,62.14,Escalated
+164,499,Delivery,35.54,Resolved
+165,22,Payment,10.55,Resolved
+166,287,Delivery,21.55,Escalated
+167,391,Delivery,48.03,Resolved
+168,617,Refund,44.53,Resolved
+169,149,Product Issue,38.7,Resolved
+170,272,Payment,49.49,Pending
+171,788,Refund,46.25,Pending
+172,299,Delivery,63.57,Resolved
+173,172,Product Issue,42.61,Escalated
+174,47,Payment,56.28,Escalated
+175,626,General Query,18.66,Pending
+176,787,Payment,49.15,Escalated
+177,816,Payment,65.06,Resolved
+178,992,Delivery,28.39,Escalated
+179,207,Delivery,56.32,Pending
+180,453,General Query,52.46,Pending
+181,395,General Query,5.23,Resolved
+182,975,General Query,42.29,Pending
+183,925,Refund,10.24,Pending
+184,754,Refund,69.68,Pending
+185,301,Delivery,58.61,Escalated
+186,708,Delivery,8.79,Pending
+187,676,General Query,9.64,Escalated
+188,176,Refund,43.21,Pending
+189,855,Product Issue,25.49,Pending
+190,783,Refund,3.48,Escalated
+191,110,Delivery,39.46,Escalated
+192,684,Refund,28.54,Resolved
+193,963,Delivery,8.18,Resolved
+194,864,General Query,57.94,Escalated
+195,202,General Query,65.97,Pending
+196,168,General Query,54.72,Resolved
+197,614,Product Issue,59.39,Escalated
+198,86,Product Issue,16.37,Escalated
+199,654,Delivery,19.71,Pending
+200,959,Payment,15.81,Escalated
+201,849,Product Issue,55.32,Resolved
+202,725,Delivery,68.3,Pending
+203,51,Refund,51.9,Escalated
+204,112,General Query,63.58,Escalated
+205,463,General Query,46.35,Pending
+206,442,General Query,28.52,Pending
+207,271,Delivery,31.23,Pending
+208,577,General Query,6.35,Resolved
+209,344,Product Issue,3.23,Resolved
+210,183,Refund,50.38,Escalated
+211,503,General Query,32.13,Escalated
+212,844,Delivery,40.21,Pending
+213,10,Refund,40.59,Escalated
+214,494,General Query,20.69,Escalated
+215,234,Payment,34.79,Pending
+216,298,General Query,34.42,Resolved
+217,244,Product Issue,28.58,Resolved
+218,509,Refund,59.27,Resolved
+219,351,Product Issue,33.03,Escalated
+220,267,Payment,43.86,Pending
+221,630,Payment,64.58,Resolved
+222,656,Product Issue,62.5,Escalated
+223,893,Refund,64.22,Pending
+224,201,Payment,20.17,Resolved
+225,239,Payment,3.48,Resolved
+226,334,General Query,19.54,Pending
+227,915,Delivery,20.79,Escalated
+228,415,Payment,65.56,Escalated
+229,969,Refund,47.1,Resolved
+230,484,Refund,6.8,Pending
+231,437,General Query,10.61,Escalated
+232,999,Refund,12.05,Pending
+233,246,General Query,45.76,Pending
+234,858,Payment,53.21,Resolved
+235,8,Payment,62.03,Pending
+236,152,Payment,67.79,Pending
+237,392,Payment,15.32,Pending
+238,211,Delivery,22.99,Escalated
+239,367,Delivery,18.06,Resolved
+240,944,Payment,26.47,Resolved
+241,670,Refund,65.94,Pending
+242,570,General Query,41.83,Pending
+243,86,Product Issue,53.41,Escalated
+244,55,General Query,35.8,Resolved
+245,713,Product Issue,3.05,Escalated
+246,634,Product Issue,5.56,Resolved
+247,446,Payment,39.19,Escalated
+248,620,Product Issue,52.03,Pending
+249,304,Payment,16.29,Escalated
+250,132,Delivery,52.26,Pending
+251,421,Refund,58.56,Resolved
+252,904,Product Issue,30.24,Resolved
+253,385,Refund,54.0,Pending
+254,988,Payment,29.69,Resolved
+255,198,Product Issue,49.16,Escalated
+256,47,General Query,55.24,Pending
+257,740,Delivery,71.43,Resolved
+258,757,Delivery,25.52,Escalated
+259,203,Product Issue,30.18,Escalated
+260,261,Delivery,12.76,Resolved
+261,690,General Query,15.49,Resolved
+262,24,Refund,50.23,Escalated
+263,687,General Query,66.11,Pending
+264,786,Delivery,29.02,Resolved
+265,340,Refund,13.77,Resolved
+266,412,General Query,21.24,Pending
+267,973,Payment,33.31,Pending
+268,261,Payment,21.64,Resolved
+269,286,Refund,17.58,Pending
+270,513,Refund,53.25,Escalated
+271,86,Refund,1.56,Escalated
+272,850,Payment,39.29,Escalated
+273,430,General Query,57.36,Resolved
+274,581,Refund,19.9,Pending
+275,31,Payment,43.83,Escalated
+276,710,Refund,48.49,Pending
+277,603,Refund,47.51,Escalated
+278,440,Refund,32.66,Pending
+279,985,Payment,25.61,Escalated
+280,349,General Query,60.35,Escalated
+281,895,Payment,54.85,Escalated
+282,412,Payment,23.81,Escalated
+283,528,Refund,8.31,Escalated
+284,310,Product Issue,6.1,Escalated
+285,949,Product Issue,7.69,Escalated
+286,396,Product Issue,42.38,Escalated
+287,788,Payment,4.67,Escalated
+288,338,Refund,24.92,Pending
+289,674,Product Issue,54.48,Pending
+290,437,Delivery,21.9,Resolved
+291,704,Delivery,55.19,Escalated
+292,663,Delivery,53.93,Pending
+293,365,General Query,18.45,Pending
+294,923,Refund,52.75,Pending
+295,113,Payment,54.09,Pending
+296,785,Payment,29.22,Pending
+297,176,Refund,15.94,Pending
+298,149,General Query,38.01,Resolved
+299,178,Refund,66.42,Pending
+300,936,General Query,46.41,Resolved
+301,382,Product Issue,13.28,Resolved
+302,223,Product Issue,49.48,Escalated
+303,259,General Query,31.33,Escalated
+304,785,Refund,43.0,Escalated
+305,189,Product Issue,53.12,Pending
+306,306,Refund,37.56,Escalated
+307,378,Product Issue,58.79,Pending
+308,602,Refund,52.27,Pending
+309,343,Refund,44.67,Escalated
+310,774,Delivery,11.71,Escalated
+311,156,General Query,60.35,Resolved
+312,712,Payment,67.45,Resolved
+313,55,General Query,10.72,Pending
+314,766,Refund,35.67,Pending
+315,442,Refund,19.38,Escalated
+316,685,General Query,54.57,Escalated
+317,200,Refund,52.24,Resolved
+318,403,Product Issue,11.0,Escalated
+319,614,Refund,63.27,Pending
+320,797,General Query,13.85,Escalated
+321,663,General Query,57.61,Resolved
+322,623,General Query,33.45,Pending
+323,928,Delivery,24.31,Resolved
+324,778,Delivery,12.23,Resolved
+325,603,Delivery,12.9,Pending
+326,177,Delivery,47.99,Resolved
+327,449,Delivery,40.08,Escalated
+328,743,Delivery,9.67,Escalated
+329,541,Delivery,9.0,Resolved
+330,955,General Query,6.13,Escalated
+331,301,Payment,53.81,Resolved
+332,707,Delivery,51.54,Escalated
+333,307,General Query,5.15,Resolved
+334,751,Payment,40.78,Escalated
+335,869,Delivery,7.01,Pending
+336,991,Payment,65.17,Pending
+337,896,Payment,65.41,Escalated
+338,267,Product Issue,50.57,Resolved
+339,214,Refund,66.76,Escalated
+340,594,Product Issue,58.61,Resolved
+341,640,Payment,59.83,Escalated
+342,483,General Query,41.45,Escalated
+343,262,Delivery,22.73,Pending
+344,67,Refund,16.46,Resolved
+345,574,Delivery,24.23,Resolved
+346,133,General Query,45.62,Resolved
+347,649,Refund,13.26,Resolved
+348,540,Product Issue,19.36,Resolved
+349,512,Payment,34.23,Pending
+350,211,General Query,17.55,Escalated
+351,988,Payment,42.79,Resolved
+352,987,Payment,66.55,Resolved
+353,717,Delivery,54.11,Escalated
+354,253,General Query,48.32,Pending
+355,38,Payment,42.37,Pending
+356,43,Product Issue,35.64,Pending
+357,629,Refund,14.25,Escalated
+358,405,General Query,64.52,Escalated
+359,987,Delivery,18.65,Pending
+360,702,General Query,7.48,Pending
+361,46,Delivery,54.25,Escalated
+362,454,Refund,13.47,Pending
+363,678,Product Issue,27.4,Resolved
+364,305,Payment,3.01,Escalated
+365,715,General Query,10.73,Pending
+366,233,Delivery,13.3,Resolved
+367,245,Refund,4.86,Escalated
+368,721,Payment,47.62,Escalated
+369,760,Refund,60.43,Resolved
+370,295,Product Issue,27.51,Escalated
+371,839,Payment,63.09,Pending
+372,383,Payment,16.15,Escalated
+373,158,Payment,24.1,Pending
+374,405,Delivery,11.7,Resolved
+375,1,Payment,45.06,Resolved
+376,217,Refund,30.81,Escalated
+377,928,Delivery,44.54,Resolved
+378,507,Payment,55.08,Resolved
+379,761,Refund,39.74,Escalated
+380,904,Refund,45.56,Pending
+381,581,General Query,67.4,Escalated
+382,30,Refund,22.23,Escalated
+383,627,Product Issue,26.5,Pending
+384,520,Payment,51.96,Pending
+385,881,Payment,44.4,Pending
+386,275,Payment,13.68,Escalated
+387,492,Refund,27.71,Pending
+388,827,Refund,34.22,Resolved
+389,951,Payment,30.78,Pending
+390,926,Delivery,13.66,Resolved
+391,847,Delivery,66.63,Pending
+392,36,Product Issue,55.12,Resolved
+393,311,General Query,35.18,Resolved
+394,44,Product Issue,49.28,Resolved
+395,155,Payment,64.71,Resolved
+396,77,Payment,10.67,Resolved
+397,590,Payment,18.78,Pending
+398,613,General Query,39.53,Escalated
+399,438,Refund,57.73,Escalated
+400,432,General Query,3.57,Escalated
+401,542,Product Issue,70.87,Escalated
+402,39,Refund,33.3,Escalated
+403,239,Refund,26.51,Resolved
+404,13,Product Issue,21.78,Pending
+405,122,Refund,13.38,Resolved
+406,144,Delivery,57.2,Pending
+407,684,Product Issue,68.83,Pending
+408,455,Product Issue,30.37,Pending
+409,368,Delivery,68.62,Pending
+410,759,General Query,59.49,Escalated
+411,247,General Query,35.15,Pending
+412,923,General Query,48.86,Pending
+413,45,Refund,31.88,Escalated
+414,765,Delivery,40.67,Resolved
+415,375,Product Issue,5.12,Resolved
+416,291,Product Issue,50.43,Resolved
+417,207,Product Issue,4.75,Resolved
+418,924,Refund,59.01,Pending
+419,995,Refund,59.57,Escalated
+420,519,General Query,17.83,Escalated
+421,958,Refund,23.98,Resolved
+422,242,General Query,35.17,Escalated
+423,622,General Query,43.36,Pending
+424,114,Product Issue,21.4,Resolved
+425,819,Refund,43.07,Pending
+426,302,General Query,22.14,Pending
+427,276,Delivery,4.94,Pending
+428,96,Delivery,1.18,Pending
+429,294,Refund,8.18,Pending
+430,701,Product Issue,57.25,Resolved
+431,360,Product Issue,69.26,Pending
+432,288,General Query,31.31,Resolved
+433,154,Refund,37.4,Escalated
+434,570,Delivery,11.43,Pending
+435,423,General Query,40.12,Pending
+436,916,General Query,11.27,Escalated
+437,850,Payment,44.4,Resolved
+438,50,Refund,67.26,Pending
+439,207,General Query,14.89,Escalated
+440,564,Delivery,55.28,Escalated
+441,854,Payment,2.67,Pending
+442,883,Delivery,27.66,Resolved
+443,662,Product Issue,8.86,Resolved
+444,565,Payment,26.03,Pending
+445,213,Payment,13.32,Escalated
+446,66,General Query,27.5,Pending
+447,232,Product Issue,30.64,Resolved
+448,885,General Query,22.34,Escalated
+449,811,Refund,47.62,Pending
+450,850,Delivery,66.24,Escalated
+451,663,Delivery,29.44,Resolved
+452,717,General Query,14.66,Resolved
+453,320,Delivery,20.22,Resolved
+454,767,Delivery,61.63,Pending
+455,137,Refund,41.59,Escalated
+456,881,Product Issue,33.31,Pending
+457,647,Payment,11.62,Pending
+458,937,General Query,32.93,Pending
+459,566,General Query,20.77,Pending
+460,65,Refund,67.96,Escalated
+461,514,Refund,63.77,Escalated
+462,132,Payment,6.96,Pending
+463,334,Product Issue,37.68,Pending
+464,32,General Query,16.98,Resolved
+465,868,Refund,30.17,Resolved
+466,898,General Query,63.26,Escalated
+467,872,Delivery,38.45,Resolved
+468,498,General Query,24.73,Escalated
+469,243,Product Issue,15.76,Escalated
+470,192,Product Issue,57.82,Escalated
+471,142,General Query,45.34,Resolved
+472,660,Delivery,34.23,Resolved
+473,601,Product Issue,16.44,Escalated
+474,561,Refund,24.73,Escalated
+475,648,General Query,69.15,Pending
+476,988,Delivery,37.93,Escalated
+477,191,Refund,29.45,Escalated
+478,942,General Query,38.02,Pending
+479,149,Delivery,56.31,Escalated
+480,599,Refund,25.15,Escalated
+481,416,Product Issue,13.69,Escalated
+482,520,General Query,42.53,Pending
+483,735,General Query,48.23,Resolved
+484,869,Product Issue,51.6,Escalated
+485,16,Payment,63.62,Pending
+486,808,Refund,27.35,Escalated
+487,106,Product Issue,6.35,Pending
+488,283,General Query,69.04,Escalated
+489,104,Refund,31.89,Pending
+490,361,Refund,45.25,Resolved
+491,658,Payment,48.31,Resolved
+492,35,General Query,39.8,Resolved
+493,113,Delivery,15.57,Escalated
+494,308,Payment,54.62,Pending
+495,911,Payment,58.07,Escalated
+496,959,Delivery,40.26,Escalated
+497,53,Delivery,35.69,Pending
+498,859,Payment,9.09,Escalated
+499,81,Refund,6.96,Pending
+500,616,Product Issue,25.11,Pending
+501,834,Product Issue,23.07,Resolved
+502,369,Payment,68.71,Resolved
+503,242,Refund,56.64,Resolved
+504,31,Delivery,47.85,Pending
+505,829,Payment,37.75,Resolved
+506,704,General Query,12.88,Pending
+507,869,Refund,70.47,Escalated
+508,361,General Query,27.63,Resolved
+509,233,General Query,8.59,Pending
+510,610,Payment,36.06,Pending
+511,34,Refund,63.05,Pending
+512,243,General Query,64.0,Pending
+513,951,Refund,1.78,Resolved
+514,59,Product Issue,63.93,Resolved
+515,771,General Query,20.28,Resolved
+516,529,General Query,3.77,Pending
+517,78,Refund,61.19,Escalated
+518,718,Product Issue,62.33,Pending
+519,302,General Query,43.33,Escalated
+520,678,Payment,41.78,Resolved
+521,803,Refund,58.73,Pending
+522,897,Refund,56.83,Pending
+523,112,General Query,64.2,Resolved
+524,413,Product Issue,40.25,Pending
+525,900,General Query,69.7,Escalated
+526,317,Delivery,71.73,Escalated
+527,865,General Query,9.27,Escalated
+528,145,Delivery,61.32,Pending
+529,668,Payment,36.49,Pending
+530,690,Refund,28.52,Escalated
+531,858,Refund,44.53,Pending
+532,648,Product Issue,4.97,Escalated
+533,930,General Query,36.96,Resolved
+534,827,Payment,62.83,Escalated
+535,18,Delivery,16.16,Resolved
+536,351,Product Issue,31.27,Resolved
+537,955,Payment,67.7,Resolved
+538,155,Payment,31.43,Escalated
+539,784,Delivery,26.44,Escalated
+540,506,Delivery,32.28,Pending
+541,778,Refund,37.88,Pending
+542,360,General Query,45.87,Resolved
+543,332,Product Issue,57.85,Escalated
+544,918,General Query,33.1,Pending
+545,528,Product Issue,59.04,Pending
+546,12,Payment,38.89,Pending
+547,75,Delivery,25.03,Escalated
+548,212,Delivery,47.71,Pending
+549,691,Payment,51.96,Resolved
+550,641,Payment,40.62,Escalated
+551,283,Product Issue,5.02,Pending
+552,195,Payment,13.06,Pending
+553,780,Product Issue,21.26,Escalated
+554,30,General Query,21.07,Pending
+555,9,Delivery,48.81,Pending
+556,309,Delivery,2.3,Resolved
+557,445,Delivery,54.65,Escalated
+558,310,General Query,19.84,Pending
+559,677,General Query,23.01,Escalated
+560,705,Refund,38.48,Escalated
+561,426,Product Issue,16.33,Resolved
+562,817,Product Issue,63.8,Resolved
+563,772,Refund,7.06,Escalated
+564,704,Delivery,32.55,Resolved
+565,591,Product Issue,61.31,Resolved
+566,691,Product Issue,44.72,Pending
+567,91,Delivery,21.76,Resolved
+568,456,Payment,30.87,Resolved
+569,444,Payment,51.18,Pending
+570,727,Refund,70.1,Pending
+571,79,General Query,64.41,Escalated
+572,475,Product Issue,25.31,Resolved
+573,927,Product Issue,71.87,Pending
+574,103,Refund,1.25,Resolved
+575,623,Refund,2.96,Escalated
+576,456,Product Issue,59.49,Resolved
+577,990,Delivery,15.16,Resolved
+578,314,Delivery,5.31,Resolved
+579,247,General Query,17.84,Pending
+580,234,Product Issue,31.25,Pending
+581,594,Product Issue,52.87,Escalated
+582,644,Product Issue,45.33,Resolved
+583,235,Product Issue,17.87,Escalated
+584,790,Refund,36.73,Escalated
+585,387,Payment,66.76,Pending
+586,847,Product Issue,58.87,Resolved
+587,611,Payment,23.95,Resolved
+588,943,Delivery,70.74,Escalated
+589,38,General Query,51.31,Resolved
+590,161,Delivery,5.43,Pending
+591,462,Product Issue,3.5,Escalated
+592,944,Delivery,12.96,Escalated
+593,449,Refund,52.68,Pending
+594,117,Payment,14.05,Pending
+595,241,Product Issue,37.32,Pending
+596,26,Refund,7.62,Pending
+597,648,Payment,66.38,Pending
+598,562,Refund,25.42,Pending
+599,976,Delivery,65.48,Escalated
+600,806,Product Issue,68.09,Resolved
+601,906,Delivery,1.44,Resolved
+602,298,General Query,33.95,Escalated
+603,805,Product Issue,2.75,Resolved
+604,154,Delivery,65.52,Resolved
+605,732,Product Issue,37.81,Escalated
+606,652,Payment,6.32,Resolved
+607,468,Product Issue,8.83,Resolved
+608,49,Product Issue,28.23,Escalated
+609,654,Payment,67.76,Resolved
+610,46,Delivery,50.2,Pending
+611,675,Product Issue,62.6,Escalated
+612,285,Refund,27.02,Resolved
+613,780,Product Issue,4.07,Resolved
+614,628,Delivery,70.18,Pending
+615,82,Payment,2.22,Escalated
+616,44,Delivery,68.28,Escalated
+617,706,General Query,27.18,Resolved
+618,770,Product Issue,1.72,Pending
+619,955,Product Issue,49.93,Pending
+620,273,Payment,70.62,Pending
+621,394,Product Issue,69.56,Pending
+622,786,Refund,12.43,Pending
+623,790,Refund,13.87,Pending
+624,595,Delivery,41.15,Escalated
+625,58,Payment,46.25,Resolved
+626,565,General Query,53.5,Resolved
+627,1,Delivery,13.85,Pending
+628,216,Payment,69.09,Escalated
+629,317,Payment,46.35,Escalated
+630,228,Delivery,61.14,Pending
+631,473,Delivery,39.34,Resolved
+632,484,Product Issue,30.41,Pending
+633,766,General Query,70.38,Escalated
+634,671,Refund,42.33,Pending
+635,287,Product Issue,62.55,Resolved
+636,511,Payment,68.68,Resolved
+637,578,General Query,48.95,Escalated
+638,915,General Query,39.97,Pending
+639,821,Delivery,1.25,Pending
+640,972,General Query,3.84,Escalated
+641,458,General Query,15.26,Pending
+642,95,Payment,14.21,Escalated
+643,493,Product Issue,19.09,Pending
+644,765,General Query,22.65,Resolved
+645,150,Delivery,26.56,Escalated
+646,23,Product Issue,30.86,Pending
+647,756,Delivery,8.02,Pending
+648,215,General Query,4.01,Pending
+649,399,Product Issue,48.85,Escalated
+650,410,General Query,39.15,Resolved
+651,131,Payment,32.53,Pending
+652,855,Product Issue,46.05,Escalated
+653,148,Delivery,59.77,Pending
+654,381,Payment,31.37,Resolved
+655,109,Refund,46.52,Resolved
+656,552,Delivery,68.7,Resolved
+657,121,General Query,60.61,Escalated
+658,295,Delivery,31.25,Pending
+659,120,Refund,46.77,Escalated
+660,456,Delivery,13.57,Pending
+661,530,Payment,40.8,Escalated
+662,169,Delivery,70.67,Pending
+663,710,Product Issue,37.8,Escalated
+664,923,Refund,66.86,Pending
+665,996,Delivery,29.92,Escalated
+666,143,Refund,71.92,Resolved
+667,37,Payment,42.12,Escalated
+668,698,Product Issue,4.0,Resolved
+669,261,General Query,42.66,Resolved
+670,231,Delivery,20.49,Pending
+671,254,Payment,3.31,Resolved
+672,329,Refund,59.28,Resolved
+673,903,Refund,20.58,Pending
+674,297,Payment,57.55,Escalated
+675,980,Delivery,21.46,Escalated
+676,10,General Query,14.8,Resolved
+677,446,Delivery,70.15,Escalated
+678,922,Product Issue,26.68,Resolved
+679,836,Delivery,43.7,Escalated
+680,230,Product Issue,44.31,Escalated
+681,536,Refund,40.79,Escalated
+682,78,Product Issue,65.94,Resolved
+683,425,General Query,48.89,Pending
+684,193,Payment,29.67,Escalated
+685,401,Product Issue,62.23,Escalated
+686,109,Delivery,13.86,Escalated
+687,792,Product Issue,39.64,Resolved
+688,923,Refund,68.49,Pending
+689,263,Product Issue,45.4,Resolved
+690,329,General Query,59.0,Escalated
+691,363,Product Issue,47.4,Resolved
+692,867,General Query,60.6,Escalated
+693,378,Delivery,68.06,Escalated
+694,780,Refund,20.38,Resolved
+695,341,Payment,13.05,Escalated
+696,259,Delivery,35.36,Escalated
+697,335,Delivery,50.83,Pending
+698,85,Payment,17.13,Resolved
+699,522,Product Issue,1.29,Resolved
+700,801,Product Issue,25.35,Escalated
+701,814,Product Issue,69.79,Escalated
+702,571,Refund,50.34,Resolved
+703,308,Delivery,29.49,Resolved
+704,262,General Query,14.67,Resolved
+705,898,Payment,26.28,Escalated
+706,797,Delivery,13.06,Pending
+707,631,Product Issue,8.55,Pending
+708,680,Payment,65.38,Escalated
+709,865,General Query,71.83,Escalated
+710,701,Delivery,12.65,Escalated
+711,452,Delivery,4.87,Resolved
+712,251,Refund,24.41,Escalated
+713,324,Delivery,33.78,Resolved
+714,925,Delivery,15.54,Pending
+715,229,General Query,22.4,Escalated
+716,702,General Query,15.26,Escalated
+717,828,Payment,55.97,Resolved
+718,636,Product Issue,51.59,Resolved
+719,596,General Query,46.08,Resolved
+720,297,Payment,28.49,Pending
+721,727,Delivery,65.54,Pending
+722,237,Payment,69.84,Escalated
+723,978,Payment,13.33,Escalated
+724,625,Payment,16.83,Resolved
+725,217,Payment,38.32,Pending
+726,833,General Query,7.48,Escalated
+727,246,Product Issue,31.99,Resolved
+728,448,Payment,42.31,Resolved
+729,847,Refund,38.07,Pending
+730,319,Delivery,24.49,Pending
+731,994,Delivery,39.51,Escalated
+732,432,Delivery,69.07,Escalated
+733,404,Delivery,15.63,Resolved
+734,886,Delivery,47.49,Resolved
+735,37,Payment,4.08,Resolved
+736,576,Product Issue,5.72,Escalated
+737,731,Refund,40.18,Pending
+738,342,General Query,8.45,Escalated
+739,389,Refund,2.59,Pending
+740,34,General Query,13.18,Escalated
+741,39,General Query,41.1,Escalated
+742,579,Refund,50.94,Pending
+743,209,Payment,15.38,Escalated
+744,830,Delivery,48.45,Escalated
+745,856,Payment,13.96,Resolved
+746,152,Delivery,44.56,Pending
+747,899,Product Issue,30.25,Pending
+748,365,General Query,47.42,Resolved
+749,199,Refund,71.65,Pending
+750,601,Product Issue,67.59,Resolved
+751,760,Delivery,1.3,Pending
+752,835,Payment,63.87,Pending
+753,79,Refund,5.72,Pending
+754,477,General Query,68.67,Pending
+755,434,Product Issue,21.01,Resolved
+756,797,General Query,28.12,Resolved
+757,842,Delivery,7.51,Pending
+758,32,General Query,8.97,Escalated
+759,87,Payment,52.6,Resolved
+760,551,Product Issue,68.05,Pending
+761,393,Product Issue,44.36,Resolved
+762,613,Payment,51.83,Escalated
+763,244,General Query,55.1,Escalated
+764,232,Payment,19.66,Escalated
+765,910,Refund,4.21,Pending
+766,580,Payment,1.13,Pending
+767,192,General Query,25.9,Escalated
+768,916,Payment,18.14,Resolved
+769,540,Delivery,5.42,Resolved
+770,270,Payment,13.75,Escalated
+771,940,Payment,9.84,Pending
+772,738,General Query,65.96,Resolved
+773,77,Refund,10.96,Resolved
+774,735,Refund,39.17,Resolved
+775,993,General Query,43.11,Pending
+776,884,General Query,39.59,Escalated
+777,167,General Query,8.03,Pending
+778,284,Delivery,23.63,Resolved
+779,704,Product Issue,4.64,Escalated
+780,89,Payment,29.09,Pending
+781,544,General Query,14.39,Escalated
+782,649,General Query,40.88,Resolved
+783,156,General Query,50.19,Pending
+784,250,Refund,38.78,Escalated
+785,95,General Query,31.83,Pending
+786,17,Payment,28.5,Resolved
+787,117,General Query,60.76,Escalated
+788,983,Payment,16.58,Resolved
+789,333,Delivery,53.13,Escalated
+790,823,Product Issue,54.78,Resolved
+791,522,Refund,30.76,Resolved
+792,80,Payment,22.11,Pending
+793,646,Delivery,34.41,Resolved
+794,432,Product Issue,7.62,Pending
+795,203,Product Issue,4.26,Resolved
+796,116,Product Issue,8.92,Resolved
+797,963,Payment,14.29,Resolved
+798,220,Delivery,36.8,Escalated
+799,253,General Query,61.29,Pending
+800,169,Delivery,17.73,Escalated
+801,847,Delivery,67.4,Pending
+802,316,Delivery,68.8,Resolved
+803,717,Payment,69.08,Escalated
+804,810,Payment,60.47,Pending
+805,372,Payment,26.83,Resolved
+806,760,Delivery,6.16,Pending
+807,877,Payment,41.39,Pending
+808,977,Product Issue,40.67,Resolved
+809,583,Payment,61.35,Escalated
+810,156,Refund,71.72,Resolved
+811,614,Payment,37.08,Escalated
+812,13,Payment,25.51,Pending
+813,508,Payment,14.2,Pending
+814,465,Payment,1.34,Pending
+815,783,Refund,37.15,Escalated
+816,804,General Query,40.44,Resolved
+817,220,Payment,59.57,Escalated
+818,15,Product Issue,36.82,Pending
+819,750,Refund,66.07,Pending
+820,117,General Query,45.59,Resolved
+821,331,Payment,60.66,Escalated
+822,56,General Query,11.53,Pending
+823,351,Product Issue,61.73,Escalated
+824,132,Refund,48.94,Escalated
+825,995,Refund,13.09,Resolved
+826,226,General Query,14.47,Resolved
+827,308,Payment,66.78,Pending
+828,475,Delivery,3.29,Resolved
+829,906,Refund,33.84,Escalated
+830,222,Delivery,23.26,Resolved
+831,173,Refund,48.22,Escalated
+832,340,Payment,60.61,Pending
+833,797,Payment,26.59,Escalated
+834,506,Refund,31.31,Resolved
+835,821,General Query,70.72,Resolved
+836,157,Payment,56.66,Pending
+837,151,Payment,64.7,Resolved
+838,697,Product Issue,32.15,Pending
+839,178,Payment,17.62,Pending
+840,533,Product Issue,30.24,Resolved
+841,112,Payment,51.84,Escalated
+842,683,Payment,8.77,Pending
+843,138,General Query,20.2,Escalated
+844,233,General Query,4.31,Resolved
+845,332,Payment,31.7,Escalated
+846,542,Refund,59.75,Escalated
+847,893,Refund,2.75,Escalated
+848,307,Payment,48.95,Escalated
+849,161,Refund,67.21,Resolved
+850,402,Payment,17.82,Resolved
+851,590,General Query,50.25,Escalated
+852,278,Delivery,70.23,Resolved
+853,320,Product Issue,69.32,Resolved
+854,533,Refund,17.68,Pending
+855,897,Refund,8.12,Resolved
+856,497,General Query,11.53,Escalated
+857,363,Refund,50.84,Resolved
+858,372,Payment,52.53,Resolved
+859,892,Payment,48.87,Resolved
+860,655,Delivery,24.86,Resolved
+861,36,Delivery,13.05,Pending
+862,303,Delivery,42.23,Escalated
+863,438,Payment,35.34,Escalated
+864,726,Delivery,52.75,Resolved
+865,32,Delivery,32.34,Resolved
+866,186,Payment,25.04,Pending
+867,174,General Query,21.84,Resolved
+868,566,Refund,16.01,Pending
+869,673,Product Issue,19.87,Escalated
+870,250,Payment,7.73,Escalated
+871,763,Payment,25.63,Pending
+872,935,Product Issue,3.6,Escalated
+873,279,Product Issue,14.24,Resolved
+874,683,Delivery,54.02,Resolved
+875,695,Product Issue,24.11,Pending
+876,2,Refund,48.44,Escalated
+877,194,Refund,51.9,Escalated
+878,166,Refund,42.26,Pending
+879,759,Refund,69.07,Pending
+880,925,Refund,2.52,Escalated
+881,756,Delivery,53.44,Pending
+882,110,Payment,69.07,Resolved
+883,380,Product Issue,62.22,Escalated
+884,835,Payment,12.92,Pending
+885,999,Product Issue,24.2,Pending
+886,583,Delivery,13.24,Pending
+887,676,Delivery,43.69,Escalated
+888,285,General Query,51.57,Resolved
+889,887,General Query,23.51,Resolved
+890,421,Delivery,39.3,Escalated
+891,113,Delivery,50.06,Pending
+892,228,Product Issue,30.92,Escalated
+893,471,Delivery,61.64,Escalated
+894,813,Payment,55.78,Pending
+895,528,Product Issue,5.59,Escalated
+896,496,Delivery,45.1,Resolved
+897,31,Product Issue,17.71,Escalated
+898,162,Product Issue,40.58,Pending
+899,818,Refund,68.94,Escalated
+900,705,General Query,63.41,Resolved
+901,722,Product Issue,29.72,Escalated
+902,378,Product Issue,21.7,Escalated
+903,446,Refund,17.64,Escalated
+904,744,Delivery,38.81,Escalated
+905,427,Product Issue,9.11,Pending
+906,696,Refund,40.0,Resolved
+907,504,Payment,1.09,Resolved
+908,527,Refund,23.99,Resolved
+909,944,General Query,16.62,Escalated
+910,817,General Query,69.96,Resolved
+911,721,Delivery,52.63,Pending
+912,684,Delivery,25.83,Escalated
+913,778,General Query,7.59,Escalated
+914,532,General Query,37.69,Resolved
+915,582,Product Issue,16.15,Escalated
+916,520,General Query,39.09,Escalated
+917,941,Delivery,60.31,Resolved
+918,34,General Query,44.72,Pending
+919,736,Delivery,46.0,Pending
+920,691,Payment,39.41,Resolved
+921,758,General Query,66.84,Pending
+922,490,Delivery,67.17,Pending
+923,772,Refund,37.4,Pending
+924,620,Product Issue,22.71,Escalated
+925,754,Delivery,33.63,Escalated
+926,423,General Query,14.25,Escalated
+927,468,General Query,46.18,Pending
+928,24,Payment,36.51,Escalated
+929,216,Refund,8.33,Pending
+930,55,Delivery,15.03,Resolved
+931,26,Refund,35.05,Pending
+932,281,Payment,64.02,Escalated
+933,804,Product Issue,41.21,Pending
+934,327,Refund,49.39,Escalated
+935,970,Payment,25.07,Escalated
+936,186,Delivery,41.57,Resolved
+937,495,Product Issue,32.76,Resolved
+938,12,General Query,47.8,Escalated
+939,641,Payment,4.59,Pending
+940,884,General Query,36.02,Resolved
+941,434,Product Issue,22.02,Resolved
+942,921,Payment,24.16,Escalated
+943,208,Payment,69.23,Pending
+944,133,Product Issue,13.97,Resolved
+945,339,Delivery,23.1,Resolved
+946,196,Payment,37.2,Pending
+947,262,Product Issue,62.27,Resolved
+948,282,Refund,30.58,Pending
+949,369,General Query,53.81,Escalated
+950,103,Payment,61.8,Resolved
+951,632,Refund,23.01,Escalated
+952,183,Payment,28.89,Pending
+953,423,Delivery,26.32,Escalated
+954,9,Product Issue,60.13,Escalated
+955,557,Payment,4.15,Escalated
+956,244,Product Issue,22.9,Pending
+957,782,Payment,49.24,Pending
+958,624,Delivery,41.15,Pending
+959,567,Delivery,31.98,Pending
+960,393,Refund,39.34,Pending
+961,527,Delivery,15.03,Resolved
+962,37,Product Issue,31.58,Resolved
+963,178,Delivery,36.62,Resolved
+964,639,Payment,64.98,Escalated
+965,629,Delivery,19.52,Escalated
+966,852,Product Issue,62.62,Pending
+967,72,Payment,46.74,Pending
+968,352,Refund,2.44,Resolved
+969,623,Refund,52.45,Pending
+970,149,Refund,3.52,Escalated
+971,697,Payment,71.81,Pending
+972,105,Refund,62.96,Resolved
+973,659,Delivery,22.11,Pending
+974,221,Payment,19.28,Escalated
+975,826,Payment,28.08,Resolved
+976,863,Payment,26.29,Pending
+977,374,General Query,27.44,Escalated
+978,518,Product Issue,23.6,Resolved
+979,260,General Query,45.1,Resolved
+980,299,General Query,12.66,Escalated
+981,861,General Query,61.06,Pending
+982,42,Product Issue,58.68,Pending
+983,771,General Query,34.83,Pending
+984,897,Refund,61.54,Resolved
+985,492,Payment,18.55,Resolved
+986,439,Payment,2.25,Pending
+987,783,Delivery,44.96,Resolved
+988,47,Refund,33.51,Resolved
+989,85,Product Issue,41.27,Escalated
+990,686,Payment,64.85,Pending
+991,58,General Query,69.86,Pending
+992,991,Delivery,46.05,Pending
+993,711,Delivery,55.25,Resolved
+994,209,Payment,6.95,Resolved
+995,248,Refund,12.41,Resolved
+996,211,Delivery,53.06,Pending
+997,39,Payment,31.63,Resolved
+998,252,Refund,32.66,Pending
+999,643,Payment,22.91,Resolved
+1000,926,Payment,44.12,Pending

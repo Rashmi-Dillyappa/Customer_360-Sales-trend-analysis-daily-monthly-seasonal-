@@ -1,0 +1,1001 @@
+customer_id,name,email,age,gender,country,city,device,acquisition_channel,loyalty_status
+1,Christopher Moore,wmoore@hotmail.com,56,Other,Canada,North Juanshire,Mobile,Organic,Returning
+2,Lindsay Valencia,jody98@webb.com,69,Other,UK,Maryland,Desktop,Paid Ads,New
+3,Jose Barnes,parsonsanne@hotmail.com,46,Other,India,Melissabury,Tablet,Paid Ads,Returning
+4,Susan Maddox,brandonhill@gonzalez.com,32,Male,India,Murphyfort,Desktop,Organic,New
+5,Nicole Rangel,tracypace@gmail.com,60,Other,India,Martinezmouth,Tablet,Paid Ads,New
+6,Michele Miller,sarahbrown@mueller.info,25,Male,India,Williamsbury,Tablet,Email,Returning
+7,Patrick Rice,carlagates@ward.info,38,Female,India,Lake Nicholasview,Mobile,Social Media,Loyal
+8,Paul Foster,fbishop@bolton-hall.com,56,Other,India,South John,Tablet,Social Media,New
+9,Thomas Holder,briananderson@gmail.com,36,Male,India,Matthewsshire,Desktop,Organic,Loyal
+10,James Lee,ajackson@lee-moore.com,40,Male,UK,Christophershire,Tablet,Referral,Returning
+11,Monique Garcia,jonesanthony@johnson-parks.info,28,Other,USA,Lake Nancy,Tablet,Organic,Loyal
+12,Cynthia Caldwell,michael87@nelson.biz,28,Female,Australia,Daviston,Mobile,Paid Ads,Loyal
+13,Thomas Green,judithcollins@martin.com,41,Female,Canada,East Albertside,Tablet,Referral,Loyal
+14,Sara Carr,andradestephen@mcgee.com,53,Female,Australia,Daleville,Tablet,Paid Ads,Loyal
+15,Kenneth Castro,boothzachary@wheeler.com,57,Male,Australia,Welchchester,Desktop,Email,Loyal
+16,Kelly Flores,andrewilliams@yahoo.com,41,Male,USA,Scottchester,Mobile,Paid Ads,New
+17,Jose Martinez,fhaley@mills-johnson.net,20,Male,USA,North Dustin,Mobile,Email,New
+18,Jennifer Garcia,angela94@yahoo.com,39,Male,USA,Nixonhaven,Mobile,Email,New
+19,Adam Calderon,qtyler@henderson.com,19,Female,India,Anneberg,Tablet,Paid Ads,Returning
+20,Catherine Vasquez,stephaniesalazar@gmail.com,41,Other,UK,Gonzalezfort,Mobile,Paid Ads,Loyal
+21,Matthew Martinez,uball@allen-wright.biz,61,Male,India,South Jenniferland,Tablet,Email,New
+22,Angela King,collin86@morgan.info,47,Male,UK,Richardbury,Tablet,Referral,Returning
+23,Amanda Baird DDS,jasoncase@yahoo.com,55,Female,UK,New Antonio,Desktop,Email,New
+24,Bonnie Blair,marcsmith@hotmail.com,19,Other,Australia,Chenton,Desktop,Social Media,New
+25,Nina Ramirez,danielkaiser@mitchell.info,38,Other,Australia,Goodville,Desktop,Email,Loyal
+26,Laura Harrison MD,shelly09@yahoo.com,50,Female,UK,Thomasview,Desktop,Referral,Returning
+27,Spencer Hernandez,meghanmeyer@gmail.com,29,Female,UK,Laraburgh,Desktop,Social Media,Loyal
+28,Samantha Werner,reneecarr@hotmail.com,39,Other,India,East Thomas,Tablet,Organic,Loyal
+29,Jacob Beasley,terryharrington@yahoo.com,61,Male,India,Charlesland,Tablet,Organic,New
+30,Sarah Kemp,ambercollins@yahoo.com,42,Other,Australia,East Diana,Mobile,Referral,Loyal
+31,Darren Scott,andersoncynthia@yahoo.com,66,Female,USA,Holtfort,Tablet,Email,Returning
+32,Alexander French,geoffrey08@hotmail.com,44,Male,UK,Riosmouth,Tablet,Paid Ads,Loyal
+33,Julie Sanchez,gary12@gmail.com,59,Male,India,Meyersside,Desktop,Referral,Loyal
+34,Lori Robbins,vdiaz@yahoo.com,45,Female,Australia,Georgechester,Tablet,Social Media,Loyal
+35,Ryan Jordan,powellbobby@gmail.com,33,Female,India,Ortegaville,Desktop,Social Media,New
+36,Bianca Thompson,craig69@lopez.com,32,Female,UK,Port Brenda,Mobile,Organic,Returning
+37,Christopher Reid,reedjamie@barr.org,64,Other,UK,Richardsonton,Mobile,Social Media,New
+38,Emily Ford,agordon@yahoo.com,68,Other,Canada,Lichester,Tablet,Referral,New
+39,William Odonnell,fbrown@george-dennis.com,61,Male,USA,Port Ivan,Mobile,Social Media,New
+40,Ryan Nichols,boydnatalie@sanders.biz,69,Female,Canada,Brianshire,Tablet,Referral,New
+41,Adam Roberson,ricardomoran@gmail.com,20,Male,Australia,Lake Robert,Mobile,Paid Ads,New
+42,Jon Woods,nortonemily@yahoo.com,54,Male,India,Jesseland,Desktop,Organic,Returning
+43,Brady Dixon,stephanie79@thomas.org,68,Male,Australia,Kristinland,Desktop,Social Media,Loyal
+44,Erin Rivera,evan96@yahoo.com,24,Male,UK,Bryanfurt,Desktop,Referral,New
+45,Jacob Farmer,jessica27@burch-jordan.com,38,Female,Canada,Richardsontown,Desktop,Email,New
+46,Kenneth Carlson,hendersonbridget@yahoo.com,26,Male,Canada,Port Stephanie,Tablet,Organic,Returning
+47,Madison Cole,cynthia67@gmail.com,56,Female,Canada,East Beverlyview,Mobile,Paid Ads,Returning
+48,Michele Parker,oscarwilliams@cantrell-hayden.com,35,Female,Australia,West Ashleystad,Tablet,Referral,Loyal
+49,Ana Russell MD,kimberlybrown@hotmail.com,21,Other,UK,New Davidside,Desktop,Paid Ads,Returning
+50,Linda Wang,andrewhouse@gmail.com,42,Female,India,Ramoshaven,Tablet,Paid Ads,Loyal
+51,Alexis Wilson,sarahweeks@price.org,31,Other,India,Kimberlyfort,Mobile,Social Media,New
+52,Sarah Harrison,brycemorris@clark-bailey.org,67,Female,Australia,West Mary,Tablet,Social Media,New
+53,Michael Baldwin,nguyenadam@garcia.com,26,Female,Canada,Michelleport,Mobile,Referral,Loyal
+54,Kristie Lee,christopherjones@yahoo.com,43,Female,USA,North Douglas,Tablet,Email,Returning
+55,Barbara Lucas DVM,heatherhensley@delgado.info,19,Other,Australia,North Judithland,Mobile,Referral,Loyal
+56,Ralph Gallegos,matthew88@miller.biz,37,Other,Australia,Paynehaven,Mobile,Email,Returning
+57,Jessica Floyd,hughestroy@patterson-davis.com,45,Male,UK,Maldonadostad,Desktop,Paid Ads,New
+58,Brandon Liu,nicolesparks@gmail.com,64,Other,India,East Douglas,Mobile,Organic,Returning
+59,Cameron Patrick,sharpkevin@russo-hernandez.com,24,Other,Australia,South Gabriel,Desktop,Referral,Loyal
+60,Ricardo Sheppard,dean69@hotmail.com,61,Other,Australia,Vanessahaven,Desktop,Referral,Loyal
+61,Penny Gamble,jasonbaker@welch.com,25,Other,Canada,Morganton,Desktop,Email,New
+62,Jennifer Jones,isilva@yahoo.com,64,Male,Canada,Johnsonfurt,Tablet,Paid Ads,Returning
+63,Kendra Newman,rhicks@atkins.info,52,Other,USA,New Jesseberg,Tablet,Paid Ads,Returning
+64,Christopher Underwood,richardramirez@kerr-lee.com,31,Female,UK,Lake Frederick,Tablet,Email,Returning
+65,Megan Yang,victoriafowler@anderson.biz,34,Female,USA,Lake Scottburgh,Tablet,Paid Ads,New
+66,Frederick Hill,hernandezemily@vance-montes.com,53,Other,Canada,New Amyside,Mobile,Social Media,Returning
+67,Micheal Hamilton,dawnwhitaker@yahoo.com,67,Other,India,North Kimberly,Mobile,Organic,Loyal
+68,Amy Booth,margaretrios@gmail.com,57,Female,Canada,Charleston,Tablet,Referral,Returning
+69,William Williams,eric65@gmail.com,21,Female,UK,Port Robinmouth,Mobile,Organic,New
+70,Barbara Burns,jmiller@hotmail.com,19,Male,Canada,Carolville,Mobile,Referral,Returning
+71,Theresa Sanchez,award@yahoo.com,23,Female,UK,Lake Manuel,Desktop,Social Media,Returning
+72,Jamie Robinson,jeffreymyers@gmail.com,59,Female,UK,Teresaberg,Desktop,Paid Ads,Loyal
+73,Jill Johnson,jamesmorton@rubio.com,21,Other,UK,Torresfurt,Desktop,Email,Returning
+74,Steven Williams,sandraphillips@porter.biz,46,Female,UK,Campbelltown,Desktop,Social Media,Loyal
+75,Allison Sharp,bakeralyssa@gmail.com,35,Male,UK,New Diana,Mobile,Organic,Loyal
+76,Patricia Hughes,sandrawilliams@bowman.com,43,Female,India,Lake Bradleyview,Tablet,Email,New
+77,Wendy Shelton,fmcdonald@gmail.com,61,Other,USA,North Ryan,Mobile,Paid Ads,Loyal
+78,Victoria Bradley,kathleenmedina@hotmail.com,51,Other,Australia,Rogerfurt,Mobile,Social Media,Loyal
+79,George Crawford,david20@mcdonald-levy.org,27,Female,USA,South Johnmouth,Mobile,Email,New
+80,Rebecca Snow,kkelly@smith-taylor.com,53,Other,UK,Edwinhaven,Desktop,Social Media,Loyal
+81,Marcia Weber,rhondaward@dixon.com,31,Male,India,Luceroshire,Desktop,Social Media,New
+82,William Hernandez,wheelereric@yahoo.com,48,Male,Canada,Michaelbury,Desktop,Paid Ads,Returning
+83,Jonathan Lopez,chungtheresa@yahoo.com,65,Female,India,South James,Tablet,Referral,New
+84,Steven Lopez,jacksonroger@jones.com,32,Female,UK,Cameronmouth,Mobile,Email,Loyal
+85,Elijah Foster,brandy28@hotmail.com,25,Female,India,Kristenton,Tablet,Paid Ads,New
+86,Rachel Simmons,yhorn@yahoo.com,31,Other,India,Taylormouth,Desktop,Social Media,Loyal
+87,Stephanie Terry,christine07@miranda.com,40,Male,UK,New Grantville,Tablet,Paid Ads,Returning
+88,John Ray,pamela13@hotmail.com,57,Male,India,Port Yolandafort,Mobile,Referral,New
+89,Tracey Gonzalez,tlee@contreras.org,38,Other,Australia,Adamport,Mobile,Email,Returning
+90,Beverly Lawrence,heatherjohnson@yahoo.com,33,Male,Australia,Tonyhaven,Desktop,Referral,Loyal
+91,Jack Rodriguez,wjackson@hotmail.com,62,Female,India,Santanamouth,Desktop,Organic,Loyal
+92,Amanda Pittman,flowersjames@mercado.info,35,Female,Canada,East John,Tablet,Email,Returning
+93,Tammy Cain,vincentcameron@bauer-lewis.net,64,Female,UK,North Nicholas,Desktop,Referral,New
+94,Ann Evans,foxcarl@carr.net,41,Male,Australia,Erinshire,Desktop,Social Media,New
+95,Jennifer Williams,kathleenwilson@anderson.org,43,Female,Canada,Stoneview,Mobile,Email,Loyal
+96,Morgan Cannon,brianmelton@yahoo.com,42,Other,India,Contrerasberg,Desktop,Email,Returning
+97,Megan Galloway,lisanguyen@johnson.info,62,Other,Canada,Santiagochester,Desktop,Paid Ads,Returning
+98,Victor Kaufman,paulcastillo@yahoo.com,58,Male,USA,North Vernon,Mobile,Social Media,New
+99,Justin Horn,jamespadilla@jones.com,46,Other,Australia,Port Robert,Mobile,Organic,New
+100,Daniel Rivas,ssnyder@gmail.com,32,Other,India,Scottbury,Tablet,Referral,New
+101,Molly Edwards,kellybell@yahoo.com,62,Male,UK,South Darren,Desktop,Paid Ads,Returning
+102,Kelly Larson,jonessarah@yahoo.com,18,Female,India,Taylorton,Mobile,Referral,New
+103,Alexis Taylor,lreid@hotmail.com,42,Female,UK,Campbellton,Tablet,Organic,New
+104,Kathryn Evans,mariah09@gmail.com,24,Female,India,South Michael,Tablet,Organic,Loyal
+105,Jose Ford,johngreen@gmail.com,26,Male,Canada,Jordanshire,Desktop,Email,New
+106,Thomas Hancock,karen55@hughes-davis.com,41,Other,Canada,Bowenfort,Desktop,Organic,New
+107,Valerie Torres,taylorcharles@yahoo.com,18,Female,Canada,Markstad,Tablet,Referral,Returning
+108,Melissa Mitchell,christophernguyen@ramos-nelson.org,61,Female,USA,Port William,Mobile,Social Media,Returning
+109,Matthew Gonzalez,prestonpotter@gmail.com,25,Male,UK,Lindashire,Tablet,Social Media,Loyal
+110,Jennifer Rojas,deborahhicks@gmail.com,41,Female,Canada,Donnaside,Desktop,Email,New
+111,Renee Lloyd,cstanley@walsh-mathews.com,28,Male,USA,West Carriechester,Mobile,Referral,Loyal
+112,Rhonda Townsend,thomasbrown@santiago-chapman.com,68,Other,UK,Michaelashire,Mobile,Referral,Returning
+113,Tyler Padilla,williamwatts@hotmail.com,34,Male,India,Jenningsberg,Tablet,Organic,Loyal
+114,Julia Silva,williamsdennis@gmail.com,25,Male,USA,Butlerbury,Desktop,Referral,Returning
+115,Ronnie Whitehead,thill@eaton.com,52,Male,Australia,Amyberg,Tablet,Paid Ads,Loyal
+116,Scott Moon,brandoncooper@cruz.com,52,Male,USA,Michelleborough,Tablet,Organic,Loyal
+117,Joel Lee,wjackson@gmail.com,50,Other,USA,Port Ashleyfort,Tablet,Paid Ads,New
+118,Angela Higgins,fford@king.info,22,Other,UK,New Patrickburgh,Mobile,Email,Loyal
+119,Thomas Hernandez,lisajohnson@gmail.com,59,Female,India,East Josephshire,Mobile,Social Media,New
+120,Tammy Andrews,ericrivera@hotmail.com,56,Other,Australia,Jonathanview,Desktop,Email,New
+121,Melissa Robles,lperry@hotmail.com,58,Other,Canada,Tonyafort,Desktop,Social Media,New
+122,David Jones,munozdenise@gmail.com,45,Female,Canada,East Jenniferchester,Tablet,Email,New
+123,Ryan Davis,timothywiley@hotmail.com,24,Other,USA,Simpsonport,Tablet,Referral,Loyal
+124,Sydney Ellis,hughescraig@davis-mccormick.com,26,Male,UK,Martinport,Tablet,Paid Ads,Returning
+125,Carrie Nguyen,kelliedavis@gmail.com,25,Male,UK,Smithhaven,Desktop,Social Media,Returning
+126,Dr. Michael Woods,bmcclain@hotmail.com,29,Female,Canada,Lake Ann,Mobile,Organic,Returning
+127,Christopher Lynn,bryan93@yahoo.com,51,Female,Australia,West Elizabeth,Mobile,Paid Ads,Loyal
+128,Collin Rodriguez,eatkins@anderson.org,50,Female,India,Ronaldhaven,Tablet,Organic,New
+129,Deborah Robinson,taylordebbie@johnson.com,65,Male,Australia,Port Richard,Tablet,Paid Ads,Returning
+130,Sarah Wallace,amartinez@yahoo.com,40,Other,India,Elizabethchester,Tablet,Paid Ads,Loyal
+131,Phillip Robinson,amanda29@yahoo.com,41,Male,Canada,West Marissafort,Tablet,Email,New
+132,Anita Lowery,udavenport@yahoo.com,54,Female,India,Youngborough,Desktop,Social Media,Returning
+133,William Jones,shaffermelvin@bartlett.com,52,Other,UK,Andrewmouth,Mobile,Social Media,New
+134,Rhonda Morris,johnsonrick@valentine-velasquez.com,61,Other,USA,North Brandonland,Tablet,Paid Ads,Returning
+135,Brianna Baldwin,xbrown@johnson.net,57,Male,USA,South Adamville,Desktop,Referral,Returning
+136,Jennifer Johnson,davidfarmer@yahoo.com,39,Female,Canada,North Daniel,Tablet,Referral,Returning
+137,Corey Brown,traceybean@gmail.com,44,Male,UK,Harrellberg,Tablet,Organic,New
+138,Tim Estrada,vchristian@yahoo.com,52,Other,Australia,Richardsonview,Mobile,Organic,Loyal
+139,Antonio Morales,vnelson@hotmail.com,18,Male,UK,Brownport,Tablet,Email,New
+140,Sarah Myers,csullivan@schroeder.com,52,Male,USA,East Robertmouth,Mobile,Paid Ads,Returning
+141,Wendy Wilson,jeffrey55@hotmail.com,54,Female,USA,Gonzalesville,Mobile,Organic,New
+142,Douglas Hart,samueljohnson@jones.com,64,Female,UK,Lake Roberttown,Mobile,Organic,Loyal
+143,Samantha Cummings,paulschmidt@yahoo.com,31,Other,UK,Brianaview,Desktop,Paid Ads,New
+144,Kristie Bell,marygarcia@hotmail.com,20,Male,USA,West Tammy,Desktop,Email,Loyal
+145,Lacey Turner,dgomez@wood.com,18,Male,Australia,South Johnchester,Mobile,Organic,Loyal
+146,Amy Taylor,natashalynch@hotmail.com,22,Male,Canada,Hollystad,Tablet,Email,New
+147,Pamela Moore,djones@guerra-jones.com,43,Other,Canada,Amandamouth,Mobile,Social Media,Returning
+148,Jennifer Rojas MD,joseph47@hill.net,31,Other,UK,Atkinsonmouth,Tablet,Email,Loyal
+149,Kenneth Rivas,lperez@hotmail.com,56,Female,Canada,New Jessicaside,Mobile,Referral,New
+150,Joseph Chavez,fowlerjeffrey@yahoo.com,44,Female,USA,West Jeremy,Tablet,Referral,Loyal
+151,Jasmine Hughes,brownaustin@hotmail.com,26,Female,USA,Lake Alexander,Desktop,Email,Returning
+152,Brittany Martin,kelsey41@wilson.com,32,Male,UK,Chadborough,Tablet,Referral,New
+153,Stefanie Romero,imoore@gmail.com,32,Male,UK,West Jessica,Mobile,Social Media,New
+154,Karen Barnes,alyssacopeland@lee-morris.com,43,Female,UK,Lake Matthewtown,Desktop,Paid Ads,New
+155,Dr. Jason Robinson IV,alisonmorris@yahoo.com,59,Male,Australia,Bethfort,Tablet,Referral,Returning
+156,Michael Gomez,john44@perez-long.com,30,Female,Canada,Colleenville,Tablet,Referral,Loyal
+157,Crystal Russell,lawrence45@gonzalez.com,68,Other,UK,Lake Cassandra,Tablet,Email,New
+158,Andrew Kerr,twilliams@gmail.com,49,Female,India,Ayalaside,Tablet,Social Media,Loyal
+159,Randy Schultz,gibbskelly@miller-gutierrez.com,56,Other,India,Antonioshire,Tablet,Paid Ads,Loyal
+160,Alexis Bennett,utownsend@burton.biz,66,Male,USA,South Theresamouth,Desktop,Email,Returning
+161,Nancy Dennis,rileychristine@bowers.net,69,Female,Canada,Port Mark,Desktop,Email,New
+162,Jared Barber,matthewmoore@gmail.com,49,Male,UK,Christensenmouth,Desktop,Social Media,Loyal
+163,Mark Cain,badkins@yahoo.com,21,Other,India,North Bruce,Desktop,Paid Ads,New
+164,Cassandra Kaiser,bcochran@gmail.com,47,Other,Canada,Medinamouth,Mobile,Social Media,New
+165,Aaron Lane,william83@henson-frazier.info,54,Other,USA,North Laura,Desktop,Paid Ads,Returning
+166,James Smith,vcampbell@gmail.com,40,Male,Australia,West Maryhaven,Tablet,Social Media,New
+167,Ian Ramirez,turnerheather@franco-smith.com,56,Male,Canada,Ortizside,Tablet,Email,New
+168,Derek Farmer,mdavis@yahoo.com,62,Male,Canada,Reevesfurt,Desktop,Email,Loyal
+169,Gerald Ortiz,jamie69@hotmail.com,32,Male,Australia,Christopherhaven,Tablet,Organic,Returning
+170,Jessica Baker,ericmack@collins-wright.com,60,Other,Canada,Paulaborough,Desktop,Referral,New
+171,Anthony Morgan MD,samanthabrown@johnson.com,46,Other,USA,Joehaven,Tablet,Social Media,Loyal
+172,Michael Mullen,leecassandra@hotmail.com,53,Female,USA,Stevenville,Mobile,Organic,Returning
+173,Christina Foster,kim59@townsend-gregory.biz,30,Female,Australia,East Michelle,Mobile,Referral,Returning
+174,Amy Gonzalez,moranmichael@galvan-howe.com,49,Male,UK,Johnsonberg,Desktop,Social Media,Loyal
+175,Kevin Walker,mackenzie17@gmail.com,24,Other,India,Hullstad,Desktop,Paid Ads,Loyal
+176,Carol Kramer,tony44@moore.com,68,Other,UK,Clarkborough,Desktop,Referral,Loyal
+177,Cynthia Bennett,isaac64@hotmail.com,39,Other,Canada,Lake Brianstad,Tablet,Email,Loyal
+178,Joseph Fuentes,howardmiller@hotmail.com,45,Female,India,Hilltown,Desktop,Organic,Loyal
+179,Brittany Reyes,laura55@johnson.com,19,Female,Australia,Smithview,Mobile,Referral,New
+180,Stacey Chambers,hlowe@yahoo.com,59,Other,Australia,East Kristine,Tablet,Referral,New
+181,Richard Webster,ojohnson@gmail.com,62,Other,India,Joshuafurt,Desktop,Email,Returning
+182,Jacqueline Mitchell,stephengarcia@yahoo.com,23,Other,USA,Jenningsborough,Tablet,Social Media,New
+183,Angela Lewis,christopher54@hotmail.com,45,Female,India,North Kaitlynfurt,Tablet,Paid Ads,New
+184,Brandi Scott,blackmatthew@gmail.com,45,Other,Canada,Port Melindafurt,Desktop,Email,New
+185,Taylor Martinez,bennettmariah@yahoo.com,61,Other,USA,New Jeff,Tablet,Paid Ads,Loyal
+186,Willie Davis,benjaminrodriguez@garcia.com,61,Male,Australia,New Casey,Mobile,Social Media,Returning
+187,Jonathan Gonzalez,brownjason@hotmail.com,37,Male,India,Jacksonland,Mobile,Referral,Returning
+188,Margaret Mccormick,dawn40@palmer.info,47,Female,UK,Jensenbury,Tablet,Paid Ads,Returning
+189,Daniel Kennedy,candace54@nichols.com,28,Other,UK,Thomasville,Desktop,Organic,Returning
+190,Kelly Salazar,rhondamitchell@scott-taylor.com,45,Other,Canada,Port Latasha,Tablet,Organic,New
+191,Matthew Jackson,tmeyer@harvey.com,42,Male,UK,West Meganmouth,Mobile,Email,New
+192,Andrew Tucker,taylorcolleen@brown-miller.com,56,Female,India,Lake Brent,Tablet,Social Media,Loyal
+193,Amanda Guzman,sheltonchristine@waller.biz,50,Male,India,Lake Reneeport,Tablet,Email,Returning
+194,John Bernard,wendy81@lowe.com,18,Male,UK,Port Anthonyside,Mobile,Email,New
+195,Donna Smith,randycarpenter@young.com,44,Male,India,Dorisbury,Tablet,Email,New
+196,Stephen Kennedy,terri43@hubbard.com,69,Male,Canada,New Stefanie,Tablet,Organic,Loyal
+197,Pamela Williams,thompsondarryl@gmail.com,30,Other,USA,Port Timothyfurt,Desktop,Organic,Loyal
+198,Laurie Jones,hallmichelle@krause-diaz.com,58,Other,Canada,Tanyaton,Desktop,Email,Loyal
+199,Christopher Garcia,chenmichael@harris-turner.info,20,Male,Canada,Port Brettmouth,Mobile,Organic,New
+200,Amy Nicholson,vargaselizabeth@blanchard.com,56,Female,India,West Denisechester,Mobile,Social Media,New
+201,Tammy Reyes,durankevin@rowe-phillips.net,23,Female,USA,Richardville,Mobile,Email,Loyal
+202,Brian Kane,cannondarrell@wheeler.biz,25,Female,India,New Anthonyfort,Desktop,Organic,Returning
+203,Christine Fischer,obrown@lewis.com,44,Female,Australia,Smithton,Mobile,Paid Ads,Loyal
+204,Nicole Hayes,kevinkelly@vasquez-mccoy.com,26,Male,India,New Nicolestad,Mobile,Email,Loyal
+205,Daniel Allen,smithtodd@hotmail.com,54,Other,India,New John,Mobile,Email,Loyal
+206,Anthony Schroeder,glenngriffin@yahoo.com,50,Female,India,Lake Meganland,Desktop,Social Media,Loyal
+207,Matthew Diaz,shaun44@ortega-alvarez.com,68,Male,USA,West Charles,Tablet,Referral,New
+208,Raymond Casey,jose09@cruz.biz,59,Female,India,Lake Jasonland,Mobile,Referral,Returning
+209,Larry Hess,fbriggs@hotmail.com,61,Female,USA,South Johnfort,Tablet,Social Media,Loyal
+210,Justin Decker,wayne43@sharp-thompson.com,41,Male,UK,South Wayneberg,Mobile,Social Media,Returning
+211,Daniel Jimenez,jamesbrown@yahoo.com,32,Other,Australia,Changport,Tablet,Social Media,Returning
+212,Lacey Allen,webblucas@hoffman.info,49,Other,USA,Dickersonshire,Desktop,Referral,Returning
+213,Robin Morgan,xjoyce@gmail.com,49,Male,UK,Powellmouth,Desktop,Social Media,Loyal
+214,Harold Hernandez,sullivanian@yahoo.com,41,Other,USA,Meadowsmouth,Mobile,Organic,New
+215,Steven Johnson,melanie05@parker.com,58,Male,USA,East Charlesland,Tablet,Email,Loyal
+216,Bryan Dawson,michael28@gmail.com,69,Male,Australia,Osborneborough,Desktop,Email,Returning
+217,David Jimenez,tbowen@gmail.com,66,Male,Canada,Salasmouth,Mobile,Paid Ads,Returning
+218,Diamond Weber,pedroowens@yahoo.com,66,Other,Canada,Martinezfort,Mobile,Paid Ads,New
+219,Taylor Le DDS,shelleyanderson@hotmail.com,69,Male,USA,Hendersonshire,Desktop,Email,Loyal
+220,Anne Ryan,rmccullough@garcia.com,29,Female,India,New Linda,Desktop,Organic,Returning
+221,Stacie Miller,kayleeblevins@brown.com,56,Other,UK,West Angela,Mobile,Referral,New
+222,Sarah Francis,knoxkarl@perez-mitchell.com,19,Other,India,Tonymouth,Tablet,Referral,Returning
+223,Michelle Mitchell,pjones@chen.com,20,Other,India,Jonesshire,Tablet,Organic,New
+224,Theresa Moreno,juanmarquez@ramos.biz,66,Other,USA,Dennismouth,Tablet,Referral,New
+225,Javier Sweeney,rodney12@hotmail.com,54,Female,USA,East Terristad,Mobile,Social Media,Loyal
+226,Megan Martin,oflores@johns.biz,66,Other,USA,Barryview,Desktop,Email,Returning
+227,Sandra James,nicole66@matthews-schwartz.com,34,Other,USA,Lake Lorihaven,Mobile,Email,Loyal
+228,Autumn Owens,erinanderson@garcia.biz,66,Male,Canada,New Justin,Desktop,Organic,Returning
+229,Erik Golden,scottalison@morgan.info,19,Other,USA,Ronniefurt,Tablet,Referral,Loyal
+230,Victor Hill,bguerrero@gmail.com,19,Female,Canada,West Wesley,Tablet,Paid Ads,Returning
+231,Tammy Harris,mbrown@acosta.com,45,Female,Canada,Mayerstad,Desktop,Paid Ads,Loyal
+232,Michael Villegas,mitchellemily@gmail.com,40,Female,USA,New Arthur,Desktop,Referral,New
+233,Jeffrey Preston,sbell@valenzuela.com,54,Female,Australia,Zacharystad,Mobile,Paid Ads,Returning
+234,Jill Cruz,suzannedominguez@gmail.com,49,Other,UK,East Davidfort,Tablet,Organic,Returning
+235,Jason Knight,abigail30@moses.com,50,Other,India,East Joshualand,Mobile,Organic,New
+236,Kimberly Acevedo,vaughnheather@arellano.com,18,Female,Canada,Port Susanchester,Mobile,Referral,Loyal
+237,Courtney Moore,lisarusso@powers-miller.com,36,Female,UK,Kelseyland,Mobile,Paid Ads,Returning
+238,Mark Austin,ymayer@mccormick.org,19,Other,Australia,Williamsmouth,Tablet,Organic,Returning
+239,Dillon Hawkins,qcallahan@johnson.com,61,Female,India,Lindamouth,Mobile,Organic,Loyal
+240,Gabriel Hill,davidtorres@yahoo.com,43,Male,India,West Paulside,Mobile,Social Media,New
+241,Victor Cardenas,joneschristopher@yahoo.com,49,Female,Canada,Whitetown,Mobile,Social Media,Loyal
+242,Jennifer Barajas,lparsons@lee-bartlett.com,23,Female,USA,Foxton,Mobile,Organic,Loyal
+243,Adam Hunt,davisrachel@burgess.com,49,Male,Australia,East Cassie,Mobile,Referral,Loyal
+244,Whitney Huff,ldurham@moore.com,21,Male,Canada,East Georgetown,Mobile,Email,Returning
+245,Kimberly Ward,patrick83@hotmail.com,28,Other,Australia,Port Joshua,Tablet,Email,New
+246,Lawrence Cox,rgarrett@parsons.com,34,Other,USA,Gregoryberg,Mobile,Organic,New
+247,Karen Madden,fgregory@hotmail.com,55,Male,USA,Alexanderton,Desktop,Organic,Loyal
+248,Brandon Espinoza,debbieibarra@clark.info,41,Male,Canada,Lopezfort,Mobile,Organic,Returning
+249,Brian Carlson,william06@cross-sanchez.com,22,Other,USA,Lake Jason,Mobile,Referral,Loyal
+250,Dr. Nicholas Stokes DDS,scottsmith@jones.com,69,Female,UK,Lake Joyce,Tablet,Social Media,Returning
+251,Emily Potter,deborah55@rios-wang.com,51,Male,India,Port Iantown,Tablet,Organic,Returning
+252,Sean Brown,brookemoreno@hotmail.com,23,Other,Canada,West Stevenport,Desktop,Organic,Returning
+253,Christopher Walker,laurenbrown@gmail.com,39,Female,Australia,South Amberton,Desktop,Paid Ads,Returning
+254,Victor Parrish,carolbutler@gmail.com,28,Male,UK,Jerryland,Tablet,Referral,New
+255,Christopher Smith,zherrera@yahoo.com,65,Female,Canada,Riggsmouth,Tablet,Organic,Returning
+256,Kim Manning,taylor96@hotmail.com,33,Other,USA,Holmesport,Mobile,Paid Ads,Returning
+257,Victoria Jackson,oliviafrench@perez.org,50,Male,USA,New Andrew,Tablet,Email,Loyal
+258,Luke Rogers,richard26@walker-dawson.biz,26,Female,USA,Vickifort,Desktop,Organic,Loyal
+259,John Kelly,frank81@hotmail.com,23,Male,USA,Cookchester,Mobile,Organic,New
+260,Jose Morrison,franklinmisty@hotmail.com,33,Female,Australia,Lake Sarahbury,Desktop,Paid Ads,Loyal
+261,Tamara Leon,dabbott@yahoo.com,46,Other,UK,Jimenezport,Mobile,Referral,Returning
+262,Samantha Campbell,hannahhenry@rodgers.info,20,Other,India,Chelseaview,Tablet,Organic,Loyal
+263,Michelle Adams,mitchellkyle@hotmail.com,37,Male,Australia,North Markshire,Desktop,Email,New
+264,Jonathan Martin,wgilbert@gross.com,53,Female,Australia,Amandafurt,Mobile,Organic,Loyal
+265,Wanda Hancock,manuel32@yahoo.com,36,Male,India,Courtneyfort,Mobile,Email,Loyal
+266,Anna Salas,zmartinez@smith.info,43,Male,India,Kaylabury,Tablet,Social Media,New
+267,Jamie Robinson,iroach@gmail.com,20,Female,USA,Lake Kendra,Tablet,Social Media,New
+268,Justin Kim,calderonsandra@hotmail.com,36,Female,Australia,East Juan,Tablet,Email,Returning
+269,Christopher George,gutierrezamy@yahoo.com,37,Female,Canada,Lake Beth,Desktop,Referral,Loyal
+270,Joshua Jackson,amerritt@taylor-thompson.net,49,Other,India,Lake Thomas,Mobile,Organic,Returning
+271,Kimberly Hendricks,jeffrey56@woods-sanford.info,24,Male,India,Youngmouth,Tablet,Organic,Loyal
+272,Shawn Mack,hillryan@hall.com,69,Male,UK,New Johnbury,Desktop,Social Media,Loyal
+273,Bradley Floyd,teresa28@hotmail.com,58,Other,Canada,Justinbury,Desktop,Email,Returning
+274,Thomas Shelton MD,btodd@day-wilson.com,50,Female,Canada,Amybury,Desktop,Organic,Loyal
+275,David Mills,richard77@hotmail.com,57,Other,India,East Joshua,Tablet,Organic,Loyal
+276,Luis Hughes,wdavis@davis.com,56,Other,USA,Port Jenniferberg,Tablet,Referral,Loyal
+277,Cindy Wallace,jadkins@wright.info,35,Other,UK,Port Ernest,Mobile,Paid Ads,New
+278,Robin Cook,victoria03@jacobs.biz,57,Male,Canada,West Molly,Mobile,Social Media,Returning
+279,Robert Johnson,bradleyharris@gmail.com,18,Other,India,North Rachelview,Tablet,Social Media,New
+280,Manuel Watson,ustephens@andrade.net,28,Male,Canada,Lake Nicholas,Desktop,Paid Ads,Returning
+281,Richard Copeland,harold62@martin-thompson.net,45,Male,UK,New Alicia,Desktop,Organic,Returning
+282,Eric Rodriguez,yesenia06@yahoo.com,42,Male,UK,Port Steve,Desktop,Referral,Loyal
+283,Rebecca Erickson,terrymckinney@carter.com,67,Female,Australia,Lake Derek,Mobile,Referral,Returning
+284,Kevin Chaney,patrick08@gmail.com,40,Male,India,Port Erinberg,Desktop,Social Media,New
+285,Mrs. Elizabeth Tyler,susan00@nixon.com,48,Male,UK,South Brian,Mobile,Referral,New
+286,Paige Ayala,mark00@jensen.com,47,Female,Australia,Port Josephfort,Mobile,Paid Ads,New
+287,Sara Garcia,jeffreyholmes@hotmail.com,59,Male,Australia,North Danielleview,Desktop,Organic,Returning
+288,Kyle Cain,gonzalezcarol@hotmail.com,52,Other,Canada,Millermouth,Desktop,Paid Ads,New
+289,Michael Avery,cheyennemontoya@patel-collins.biz,24,Other,Canada,Port Ralphberg,Tablet,Email,Returning
+290,Zachary Duke,williamstyler@yahoo.com,33,Male,Australia,Rodriguezville,Tablet,Social Media,New
+291,Christy Hall,april76@gmail.com,43,Female,Canada,New Anthonyview,Desktop,Referral,New
+292,Sarah Rios,bgreene@gmail.com,65,Other,UK,West Jean,Mobile,Email,Returning
+293,Richard Richardson,garciamichael@harmon.info,69,Female,USA,East Ryan,Mobile,Referral,New
+294,Victoria Knapp,bradleyterrell@gmail.com,66,Female,UK,Loriborough,Mobile,Organic,Loyal
+295,Jacob Williams,ericali@hotmail.com,19,Other,Australia,Goodmanchester,Mobile,Organic,Returning
+296,Sophia Esparza,cervantesjavier@yahoo.com,18,Female,Australia,West Michael,Mobile,Organic,Returning
+297,Jonathan Shea,thomashansen@adams.info,65,Other,UK,Derekborough,Tablet,Referral,Returning
+298,David Smith,ialvarez@harvey-coleman.net,29,Female,Canada,Johnsonbury,Desktop,Email,Loyal
+299,Joseph Tapia,michelle09@gmail.com,22,Other,Canada,Christopherville,Tablet,Organic,Returning
+300,Edwin King,dustin92@graham.com,54,Male,Australia,Lake Heatherside,Mobile,Email,New
+301,Ashley Waters MD,delacruzdavid@hotmail.com,49,Other,India,Lake Jeffrey,Mobile,Referral,New
+302,Miguel Morgan,portermelissa@sanders.org,26,Other,Canada,Maldonadofurt,Mobile,Email,New
+303,Alexandria Perez,jose49@smith.com,58,Other,UK,Aliceville,Mobile,Referral,Returning
+304,Jessica Thompson,maurice85@rogers.com,52,Other,Canada,New Max,Desktop,Referral,New
+305,Aimee Delgado,shannonpham@myers.info,36,Female,UK,Hayeshaven,Mobile,Social Media,Returning
+306,Tyler Young,meganmoody@yahoo.com,65,Male,Australia,Brownstad,Desktop,Referral,New
+307,Robert Young,lzamora@gmail.com,33,Other,Canada,Lake Amyhaven,Mobile,Referral,Loyal
+308,Kimberly Williams,heather40@hayes.com,20,Female,UK,Lake Elizabeth,Desktop,Paid Ads,Loyal
+309,Darlene Ware,cranemartin@hotmail.com,37,Male,Australia,Pamelaville,Tablet,Organic,Loyal
+310,Sheila Smith,hamiltonrobert@smith.com,41,Male,India,Timothyville,Mobile,Social Media,Loyal
+311,Monica Bullock,moniquetaylor@mccall.com,50,Male,UK,Mariamouth,Desktop,Social Media,Returning
+312,Nathaniel Jacobson,bennettdavid@gmail.com,41,Male,India,Evanstown,Tablet,Social Media,New
+313,Monique Larsen,rodriguezkathryn@yahoo.com,69,Other,India,Kennethfort,Mobile,Paid Ads,Loyal
+314,Susan Graves,ajohnson@gmail.com,28,Other,USA,North Josephmouth,Mobile,Referral,Returning
+315,Alexa Sullivan,jeffrey67@yahoo.com,66,Female,Canada,Sabrinamouth,Mobile,Organic,Loyal
+316,Alexis Kirk,ethan13@parks.biz,25,Female,UK,East Richard,Desktop,Email,Loyal
+317,Brad Adams,sara70@scott.com,53,Female,India,Garciaport,Desktop,Referral,Returning
+318,Brittany Mcconnell,andrewdiaz@hotmail.com,55,Male,USA,Pinedaburgh,Tablet,Paid Ads,Returning
+319,James Young,kathleenharris@peterson.com,57,Male,Australia,Davidberg,Desktop,Referral,New
+320,Steve Thomas,seanjones@gmail.com,37,Other,UK,Port Jaclyn,Desktop,Referral,New
+321,Michael Martinez,myersbrian@scott.com,52,Male,India,Jenniferton,Mobile,Paid Ads,Loyal
+322,Eugene Garcia,fernandezronald@weaver.com,65,Male,Canada,Williamsborough,Mobile,Social Media,Loyal
+323,Terri Hoover,kharrell@johnson-knox.com,42,Male,USA,Sydneyside,Mobile,Social Media,New
+324,Sarah Owens,phillipsbernard@hotmail.com,52,Female,India,New Michelestad,Mobile,Organic,New
+325,Derek Friedman,kristineellis@munoz.info,42,Female,Canada,Port Derektown,Mobile,Organic,Returning
+326,Ashley Parks,qcooley@gonzales.net,46,Other,India,Jonesmouth,Mobile,Social Media,New
+327,David James,martinezbenjamin@yahoo.com,35,Male,UK,Lake Staceyton,Mobile,Email,New
+328,David Heath,gnewton@martin-meyer.com,63,Male,UK,North Dennis,Tablet,Referral,Loyal
+329,Tracy Watson,michael07@best.com,35,Other,UK,East Charles,Tablet,Email,New
+330,Kevin Johnson,jimmy80@gmail.com,19,Male,USA,East Amandashire,Tablet,Referral,Loyal
+331,Steven Myers,anthonycook@alvarado.com,52,Male,UK,Port Philipbury,Tablet,Social Media,New
+332,Jason Young,hunterdawson@gmail.com,33,Female,Canada,East Victorfurt,Mobile,Organic,Returning
+333,Dawn Allen,davidramirez@peters-perez.org,58,Other,India,Brianhaven,Tablet,Organic,New
+334,Charlene Nunez,stuartbrian@velasquez-ford.com,53,Other,Australia,Jeffreyberg,Mobile,Email,New
+335,Adam Reyes,mercerchristopher@yahoo.com,50,Other,Canada,South Brandyborough,Tablet,Organic,New
+336,Christina Solis,williamsalex@hotmail.com,21,Other,Canada,Lake Sean,Desktop,Social Media,Loyal
+337,Connor Montgomery,edward36@hotmail.com,50,Female,UK,Port Rickyville,Tablet,Email,Returning
+338,Alyssa Alexander,mkelly@yahoo.com,31,Female,USA,North Melissabury,Tablet,Referral,New
+339,Nathan Solis,fowlerluis@payne.biz,38,Male,India,Lake John,Mobile,Organic,Loyal
+340,Sara Hawkins,markjones@gmail.com,65,Male,USA,West Thomastown,Tablet,Paid Ads,Returning
+341,Daniel Collins,timothylewis@hotmail.com,37,Male,India,Jimmouth,Desktop,Organic,Loyal
+342,Cathy Brennan,james02@hotmail.com,25,Male,India,West Drewmouth,Mobile,Referral,Loyal
+343,Nathan Cherry,wheelerjustin@gmail.com,24,Female,USA,Lake Davidstad,Mobile,Email,Returning
+344,David Johnson,donnahughes@edwards-fisher.com,20,Other,Canada,Lake Chase,Tablet,Referral,New
+345,Vanessa Dickerson,rsullivan@hotmail.com,34,Female,India,Port Elizabethshire,Mobile,Paid Ads,Loyal
+346,Monica Sanchez,karenpacheco@tyler.com,50,Male,USA,Teresaton,Mobile,Social Media,Loyal
+347,Randy Bentley,lschneider@gmail.com,65,Female,India,East Geoffrey,Mobile,Organic,New
+348,Kristen Lee,tanya70@gmail.com,29,Other,Australia,Lindaport,Mobile,Email,New
+349,Jennifer Simpson,hernandezmichael@gmail.com,68,Other,Canada,Smithshire,Mobile,Social Media,Returning
+350,John Brown,mcdanielmichele@yahoo.com,39,Female,UK,Grantberg,Mobile,Referral,Returning
+351,Amanda Garcia,cevans@hotmail.com,39,Female,India,Morganhaven,Desktop,Email,Returning
+352,Jonathan Kidd,esmith@hayes.com,63,Female,Australia,Port Danielborough,Tablet,Social Media,New
+353,Arthur Sanchez,dennissmith@wagner.org,47,Male,UK,West Kristopherton,Desktop,Email,Loyal
+354,Brian Baker,wdavis@york-martinez.com,55,Female,UK,Peggyview,Mobile,Paid Ads,Loyal
+355,Lawrence Mitchell,xgreen@gmail.com,55,Female,India,New Bianca,Mobile,Paid Ads,Returning
+356,Jessica Williams,melissascott@gmail.com,62,Female,USA,Port Davidville,Tablet,Organic,New
+357,Dr. Sandra Cox DDS,ujenkins@hotmail.com,68,Other,India,West Michelle,Desktop,Organic,Loyal
+358,Emily Williams,kingkristen@yahoo.com,25,Other,Australia,Garzaborough,Tablet,Paid Ads,Returning
+359,Christine Berry,steven87@yahoo.com,44,Male,UK,Jenniferchester,Desktop,Email,Loyal
+360,Melissa Costa,anthonybaker@bonilla.com,44,Male,India,Andersonfort,Mobile,Paid Ads,Loyal
+361,Krista Hamilton,fvelazquez@jackson.org,51,Other,USA,North Grace,Tablet,Organic,New
+362,Jamie Franklin,jcarr@gmail.com,38,Other,India,Emilyfurt,Tablet,Paid Ads,New
+363,Ryan Mcfarland,haydensmith@yahoo.com,47,Other,Canada,Lake Eric,Mobile,Paid Ads,Loyal
+364,Alison Rodriguez,watsonrobert@cortez.com,50,Female,USA,Port Michaelland,Tablet,Email,Returning
+365,Miss Penny Garcia,mary20@gmail.com,45,Female,Australia,Lake Josephview,Desktop,Social Media,New
+366,Monica Wells,johnsonstacey@carter-dunn.com,64,Other,UK,West Tyler,Desktop,Organic,Loyal
+367,Nicholas Pineda,stephanielong@gmail.com,50,Female,India,New Anneshire,Desktop,Email,New
+368,Jody Johnson,xharris@phillips-morales.com,22,Female,USA,New Gregory,Desktop,Paid Ads,New
+369,Douglas Schultz,swansonjackson@yahoo.com,65,Male,Canada,Patrickchester,Mobile,Paid Ads,New
+370,David Ford,hickssarah@yahoo.com,36,Other,USA,East Vickie,Tablet,Social Media,Loyal
+371,Gabriel Hendricks II,linda31@hotmail.com,21,Other,Canada,Olivershire,Desktop,Organic,Returning
+372,Joshua Johnson,rachel20@gmail.com,52,Female,Australia,Sarahview,Mobile,Organic,Returning
+373,Lauren Hughes,cherylthomas@reynolds-miller.org,66,Other,UK,West David,Tablet,Referral,Returning
+374,Robin Rios,stephenwu@gmail.com,34,Male,Australia,East Bruce,Tablet,Organic,New
+375,Michael Gonzalez,ryanmorris@gmail.com,61,Male,India,New Marcusview,Mobile,Social Media,Loyal
+376,Debra Jones,emilysaunders@mason-dean.org,45,Male,USA,New James,Mobile,Referral,New
+377,David Conner,kelly36@pitts-mason.com,47,Other,Canada,Lake Jamesfurt,Desktop,Referral,Returning
+378,Walter Flores,rodriguezelizabeth@ramirez-navarro.org,46,Other,Canada,Port Nicholasview,Tablet,Paid Ads,Returning
+379,Jennifer Smith,jennifer28@mann.org,63,Other,USA,West Benjamin,Tablet,Paid Ads,Loyal
+380,Rebecca Walton,lmorrow@lee-parker.com,23,Other,USA,South Russellmouth,Mobile,Organic,New
+381,Lauren Davis,josephpatton@guerrero.info,52,Other,India,North Nathan,Tablet,Referral,Returning
+382,Kaitlyn Tucker,ryan15@yahoo.com,58,Male,Australia,South Allison,Desktop,Paid Ads,Loyal
+383,David Brown,pmullins@yahoo.com,54,Female,Canada,Matthewchester,Tablet,Social Media,New
+384,David Harris,shortdeborah@yahoo.com,41,Male,India,Kathrynfort,Mobile,Paid Ads,New
+385,Sonya Potter,nthompson@hotmail.com,46,Other,Australia,Davidfort,Mobile,Paid Ads,Returning
+386,Rodney Rice,smithsarah@yahoo.com,66,Male,India,Melissamouth,Desktop,Referral,Returning
+387,Mrs. Margaret Wolfe,roblesamy@ortega-melton.biz,63,Other,Canada,Andreamouth,Desktop,Referral,New
+388,Matthew Duffy,egarza@johnson.net,48,Other,USA,Evanchester,Tablet,Email,New
+389,John Gregory,smcgrath@reyes.net,52,Male,USA,Patriciaside,Tablet,Social Media,Returning
+390,Jose Harrell,williammckee@hotmail.com,50,Other,Australia,South Nathanside,Mobile,Referral,New
+391,Joseph Hopkins,oglover@yahoo.com,69,Female,UK,West Jennifermouth,Desktop,Organic,Returning
+392,Michelle Watson,ystevens@brooks-crosby.com,38,Other,Australia,Griffithhaven,Desktop,Social Media,New
+393,Jake Stevens,gperez@wright.com,49,Female,UK,Yolandatown,Desktop,Social Media,Returning
+394,Paul Wilcox,curtis63@gmail.com,40,Female,India,Lake Steven,Tablet,Referral,Loyal
+395,Jesse Powell,samanthadougherty@gmail.com,50,Other,India,Kellifurt,Desktop,Social Media,Returning
+396,Katie Smith,aliciabowen@hotmail.com,20,Male,Canada,Davidmouth,Mobile,Referral,Returning
+397,Laurie Garcia,williambutler@mendez-barton.com,35,Female,UK,West Jose,Mobile,Paid Ads,Loyal
+398,Brian Cross,pcunningham@yahoo.com,42,Male,Canada,East Russell,Tablet,Email,New
+399,Lauren Barber,rrodriguez@terry-dennis.net,59,Female,USA,Courtneyport,Tablet,Paid Ads,Loyal
+400,Bradley Jimenez,williamschristopher@fuller-rocha.com,48,Other,UK,Adamstad,Desktop,Referral,Returning
+401,Megan Armstrong,twatts@gmail.com,20,Other,Australia,Port Natalie,Tablet,Referral,New
+402,Angela Diaz,jefferyjacobs@hotmail.com,57,Female,USA,Lucasville,Mobile,Paid Ads,Loyal
+403,Michelle Hill,deleonmichael@gmail.com,63,Other,USA,Travisland,Desktop,Organic,New
+404,Matthew Wilson,hernandezanthony@gmail.com,41,Female,Australia,Nguyenburgh,Mobile,Organic,New
+405,Carol Jackson,cking@harrison.com,67,Other,USA,Lake Nicole,Desktop,Organic,Loyal
+406,Yvette Cooper,cynthiaclarke@oliver.org,49,Male,UK,West Lynn,Tablet,Referral,New
+407,Kevin Johnson,zbrady@yahoo.com,64,Other,Canada,North Timothyhaven,Desktop,Social Media,Loyal
+408,Scott Carroll,hstone@gmail.com,39,Male,USA,East Matthewfort,Desktop,Referral,Returning
+409,Robert Walters III,johnsonwilliam@callahan.com,40,Other,UK,Mistyshire,Mobile,Social Media,New
+410,Christopher Gilmore,jennifer29@lewis.com,19,Male,India,Garybury,Mobile,Paid Ads,Returning
+411,Patrick Hernandez,sharonmartin@hotmail.com,44,Other,UK,Heatherbury,Desktop,Email,Returning
+412,Christopher Sanchez,tinacastillo@yahoo.com,59,Male,Canada,North Malloryport,Tablet,Social Media,New
+413,Wendy Roth,marthawilliams@yahoo.com,19,Female,UK,Hudsonfort,Tablet,Organic,Loyal
+414,Kayla Duarte,omoody@gmail.com,43,Female,Australia,Melissashire,Mobile,Referral,New
+415,Jeremy Thomas,porterjulie@hotmail.com,34,Male,Canada,Gabriellemouth,Tablet,Paid Ads,Returning
+416,Hayley Ellison,johnsonpaula@gmail.com,57,Other,India,West Charles,Mobile,Organic,Returning
+417,Marcia Christensen,annagarrett@thomas.com,50,Male,Australia,Millerhaven,Tablet,Paid Ads,Loyal
+418,Keith Mendoza,mejiajames@moore.com,26,Other,UK,North Derrickfort,Desktop,Email,New
+419,Jason Mccoy,hannah02@gmail.com,60,Female,Canada,West Rachelmouth,Mobile,Referral,Returning
+420,Kelly Beck,henryharris@hotmail.com,65,Other,India,Joanneville,Mobile,Referral,Returning
+421,Kelsey Lee,eric96@martinez.com,56,Female,Australia,East Thomas,Desktop,Email,Returning
+422,Kaitlin Koch,esimon@yahoo.com,46,Other,India,Stewartville,Mobile,Referral,Loyal
+423,Kelly Williams,alexander34@stewart.com,59,Other,UK,Courtneymouth,Tablet,Social Media,Returning
+424,Natalie Mcintyre,conradana@gmail.com,43,Other,India,West Patriciahaven,Tablet,Paid Ads,Returning
+425,Zachary Johnson,jaysmith@hotmail.com,52,Male,USA,East Stephanie,Mobile,Organic,New
+426,Rhonda Wallace,walkerchristopher@yahoo.com,67,Male,Australia,South Taylor,Tablet,Email,New
+427,Penny Ellison,carpenterwilliam@douglas-mitchell.com,42,Female,India,Andersonchester,Mobile,Social Media,Returning
+428,Craig Mathis,victoriahuffman@lopez.com,41,Female,UK,Jonesshire,Desktop,Organic,Returning
+429,Sherri Smith,victoria14@hernandez.net,30,Male,UK,Justinland,Mobile,Organic,New
+430,Derek Hubbard,raymondmiller@hotmail.com,24,Female,India,East Wendyfurt,Desktop,Email,Loyal
+431,Alexandra Kim,kimkenneth@rogers.com,53,Male,UK,Lake Ryan,Tablet,Social Media,Loyal
+432,Judy Perry MD,brownrhonda@willis.com,62,Other,Canada,South Kevinland,Desktop,Organic,Loyal
+433,Kimberly Garcia,omonroe@smith.com,37,Female,Canada,Lake Elizabeth,Tablet,Organic,Loyal
+434,John Huffman,aguilarleah@yahoo.com,18,Female,Canada,North Theresaburgh,Mobile,Social Media,Loyal
+435,Andrea Roach,mary20@yahoo.com,25,Male,USA,Johnmouth,Tablet,Referral,Loyal
+436,Sarah Brown,jhoward@burke-thompson.net,63,Female,India,Briantown,Mobile,Organic,Loyal
+437,Tim Mcdowell,whitegabrielle@hotmail.com,33,Female,USA,Kylefort,Mobile,Paid Ads,Loyal
+438,Kenneth Hampton,bbailey@lopez-martin.com,31,Other,UK,Catherineburgh,Desktop,Social Media,New
+439,Jorge Liu,pamelajones@spears.info,29,Female,USA,Stephensshire,Desktop,Organic,Loyal
+440,Ashley Berg,janicethomas@yahoo.com,68,Other,UK,West Ian,Desktop,Email,Loyal
+441,Kimberly Kim,edwardthomas@armstrong.info,40,Male,UK,Kevinview,Desktop,Paid Ads,Loyal
+442,Nicolas Lang,francisamy@hotmail.com,32,Female,Australia,Bellborough,Tablet,Organic,Returning
+443,Julia Cruz,grossandrew@strickland-williams.com,45,Other,Canada,Michaelfurt,Tablet,Paid Ads,New
+444,Zachary Thompson,fhernandez@butler.com,51,Male,UK,Davisside,Tablet,Paid Ads,New
+445,Gregory Stewart,patricia95@carroll.com,19,Female,Australia,Lucasport,Mobile,Referral,New
+446,Sharon Davis,monicawise@mercado.com,49,Male,Canada,New Brettville,Tablet,Paid Ads,Loyal
+447,Donna Russell,taylorwebster@johnson.biz,40,Female,UK,South Gabrielle,Tablet,Referral,Loyal
+448,Adam Meyer,bowersjacob@yahoo.com,39,Male,UK,Alexandraland,Tablet,Social Media,Returning
+449,Samantha Fitzpatrick,sandra77@yahoo.com,68,Male,USA,Vincentland,Desktop,Referral,New
+450,Manuel Williams,barbara59@christensen.com,42,Other,USA,Jessicaview,Tablet,Email,Loyal
+451,Harry Torres,stephanie19@garza-hardy.com,39,Male,Canada,Port John,Mobile,Organic,New
+452,Cathy Thompson PhD,cameronheather@porter.com,39,Female,UK,Fernandezfort,Desktop,Social Media,Returning
+453,Jason Baker,lindseywilliams@king.com,66,Female,India,Heatherberg,Mobile,Social Media,Returning
+454,Joyce Lopez,emily53@lucero-williams.com,69,Other,USA,North Thomas,Tablet,Email,Returning
+455,Trevor Foster,thompsonkatherine@gmail.com,59,Female,Canada,West Brianchester,Desktop,Referral,New
+456,Kimberly Mooney,ashley11@rodriguez.org,23,Female,UK,Pachecochester,Mobile,Organic,Loyal
+457,Regina Sawyer,benjamin99@ballard-mckinney.com,32,Female,UK,West Patrickmouth,Tablet,Referral,Loyal
+458,Melissa Howard,mccalltimothy@snyder.com,60,Male,India,Muellerstad,Mobile,Paid Ads,Returning
+459,Joshua Cain,danielsmith@gmail.com,54,Male,Canada,North Charlesside,Mobile,Referral,Loyal
+460,Angela Snyder,michael98@gmail.com,50,Female,UK,Williamsburgh,Mobile,Social Media,Returning
+461,Anthony Rodriguez,anthonypeterson@gmail.com,25,Other,USA,East Ashley,Tablet,Organic,New
+462,Travis Atkins,fergusonstacey@gmail.com,61,Male,India,Jonesport,Tablet,Referral,Returning
+463,Michelle Townsend,foleyadam@gmail.com,61,Other,Canada,East Danielle,Mobile,Organic,New
+464,Mary Frazier,lunajulie@hotmail.com,22,Female,India,Wagnerfort,Desktop,Organic,Returning
+465,Lori Lloyd,samantha23@gmail.com,56,Female,USA,Lake Kimberly,Desktop,Paid Ads,Loyal
+466,Daniel Ray,irodriguez@woods.com,21,Male,Canada,North Miranda,Tablet,Paid Ads,Loyal
+467,Julie Bishop,wilsontonya@leon.info,23,Female,India,Josemouth,Tablet,Social Media,Returning
+468,Becky Ruiz,nicholas98@yahoo.com,62,Male,Australia,Sandraport,Tablet,Email,Loyal
+469,Diana Moore,sabrinawang@snyder.com,49,Female,USA,Mendozastad,Tablet,Organic,Loyal
+470,Dr. Jessica Simpson,brianmontes@west.com,69,Female,USA,Lake Travis,Tablet,Email,Loyal
+471,Susan Walker,angela07@butler.com,47,Male,USA,Brandonfurt,Desktop,Social Media,New
+472,Aaron Warner,christopher61@gmail.com,64,Male,Australia,Rodriguezview,Tablet,Organic,Loyal
+473,Roy Roberts,brandon33@yahoo.com,52,Male,Australia,East Angela,Mobile,Organic,New
+474,Valerie Doyle,david93@holland-sutton.info,57,Female,UK,Ryanshire,Mobile,Email,Returning
+475,Andrew Snyder,steven94@hotmail.com,69,Female,India,Toddton,Desktop,Referral,Loyal
+476,Miranda Duran,jrogers@stout.info,33,Other,UK,Dunnstad,Mobile,Paid Ads,Loyal
+477,Alexander Wilson,hickschristina@blair-jackson.com,30,Male,India,Lake Daniel,Desktop,Referral,Loyal
+478,Brandon Crawford,robert79@thomas.info,67,Female,Australia,Mollyhaven,Desktop,Email,Returning
+479,Jamie Fields,eugenesutton@nicholson.com,59,Female,Australia,Westmouth,Mobile,Paid Ads,New
+480,Rachael Barnett,cmoss@yahoo.com,47,Male,UK,Kayleemouth,Tablet,Referral,New
+481,Melissa Mitchell,swatkins@hotmail.com,36,Other,Canada,Cochranbury,Mobile,Paid Ads,Loyal
+482,Andrew Rodriguez,franciscoferguson@allen.com,34,Male,UK,West Justin,Mobile,Organic,Returning
+483,Leah Sosa,vheath@hotmail.com,36,Other,India,New Philip,Desktop,Referral,Returning
+484,Jennifer Ellis,fernando53@hotmail.com,45,Female,UK,West Monica,Mobile,Paid Ads,Returning
+485,Emily Garcia,rothnathaniel@jones-winters.com,43,Other,USA,Lake Patriciastad,Desktop,Paid Ads,Returning
+486,Carol Gilbert,sharon58@gmail.com,54,Female,India,Joshuaside,Tablet,Paid Ads,Returning
+487,Alicia Wood,oarnold@davis.info,43,Male,India,Lopezside,Tablet,Referral,New
+488,Alicia Jones,kroth@gmail.com,40,Male,Canada,West Nathan,Tablet,Social Media,New
+489,Aaron Burke,richard19@hotmail.com,26,Male,Australia,Jessebury,Mobile,Referral,New
+490,Patricia Elliott,teresamartin@higgins.info,29,Other,India,North Charles,Desktop,Email,Loyal
+491,Steven Swanson,sean72@olson.com,18,Female,Australia,New Patrick,Tablet,Referral,Returning
+492,Laura Perez,kimberlymartinez@hotmail.com,18,Male,UK,Morrismouth,Desktop,Paid Ads,Loyal
+493,Laura Marshall,rochaandrea@gmail.com,64,Male,USA,Williamsland,Desktop,Organic,Returning
+494,Lindsay Erickson,stevenfernandez@smith-mitchell.org,51,Female,Canada,Gomezmouth,Tablet,Referral,New
+495,Christopher Vargas,oflores@williams.info,49,Male,Australia,Johnsonburgh,Tablet,Referral,Loyal
+496,Susan Smith,mikenichols@martin.com,65,Female,India,Deannaview,Desktop,Paid Ads,New
+497,Tristan Smith,xwhite@hood-lee.info,42,Female,Australia,South Stephanie,Tablet,Organic,Returning
+498,Joanna Foster,zboyd@gmail.com,57,Female,India,Joanneview,Desktop,Organic,Returning
+499,Antonio Brooks,keith61@davis-smith.com,62,Female,Australia,East Amanda,Desktop,Email,Returning
+500,Amy Holder,smithsarah@jones-lee.com,18,Female,India,Carlsonside,Tablet,Referral,New
+501,Thomas Lopez,robinsonbarbara@sullivan-armstrong.biz,33,Other,UK,Jacquelineshire,Mobile,Organic,Returning
+502,Kara Welch,grosskaren@bennett-walters.com,56,Male,India,North Kathleen,Tablet,Organic,New
+503,Nicole White,fterrell@davidson.com,22,Other,India,Wellsmouth,Mobile,Social Media,Loyal
+504,Erin Pacheco,oguerrero@rodriguez-huffman.org,39,Male,USA,Keithmouth,Desktop,Social Media,Returning
+505,Theresa Fischer,zscott@yahoo.com,46,Other,India,North Jason,Desktop,Organic,Returning
+506,Emily Parker,samanthasandoval@mccormick.com,20,Female,USA,Rhodesburgh,Mobile,Email,Returning
+507,Mr. Wayne Brown,dawn73@sanchez.com,29,Male,Canada,Lindashire,Desktop,Organic,Loyal
+508,Steven Bean,moniquewhite@yahoo.com,43,Male,USA,Ericfort,Mobile,Paid Ads,Returning
+509,Paula Ewing,stephen75@yahoo.com,33,Other,UK,North Nathaniel,Mobile,Referral,New
+510,Luke Rollins,brettjackson@gibson-daniels.info,68,Other,USA,Hardingland,Desktop,Email,New
+511,George Johnson,turnerbarbara@gmail.com,54,Male,Canada,West Timothyshire,Mobile,Paid Ads,Returning
+512,Krystal Freeman,kimberly64@hotmail.com,39,Other,UK,Brandonport,Tablet,Email,Returning
+513,Patricia Tyler,valdezvictor@ibarra.com,46,Other,Australia,Port Jessefurt,Tablet,Paid Ads,Loyal
+514,Austin Moore,ghaney@hotmail.com,31,Other,Australia,Brownmouth,Desktop,Referral,Loyal
+515,Steven Bartlett,milleranthony@mendez.com,45,Female,USA,Curtisport,Desktop,Referral,Loyal
+516,Paige Cox,dixonerin@yahoo.com,22,Female,USA,Brownmouth,Mobile,Social Media,Returning
+517,Donald Fisher,sherryadams@yahoo.com,64,Other,Canada,Lake John,Mobile,Paid Ads,Loyal
+518,Paul Wilkerson,umonroe@gmail.com,66,Other,Canada,West Katherinemouth,Mobile,Social Media,Loyal
+519,Fernando Cook,uswanson@yahoo.com,47,Female,India,North Julie,Mobile,Paid Ads,New
+520,Miguel Johnson Jr.,gutierrezjames@myers.com,63,Female,Canada,New Michael,Tablet,Social Media,Loyal
+521,Daniel Yang,justinmullen@hotmail.com,69,Male,India,Michaelberg,Tablet,Referral,New
+522,Charlene Schroeder,dennis31@hotmail.com,22,Male,UK,New Kevinshire,Desktop,Email,New
+523,Michael Warren,stephen13@davis.com,29,Female,USA,Lake Dawnchester,Mobile,Social Media,Loyal
+524,Eric Lopez,evansdarren@davis.com,33,Other,UK,Phamfort,Mobile,Paid Ads,New
+525,David Lewis,andrew64@smith-johnson.com,43,Other,Canada,Waltonfort,Desktop,Paid Ads,Returning
+526,Cynthia Walker,lewisbrandi@rodriguez.com,43,Other,UK,Frankside,Mobile,Referral,Returning
+527,Robert Jones,schmidtkeith@johnson.com,65,Other,UK,Port Caitlyn,Mobile,Paid Ads,Loyal
+528,Laurie Lewis,alan07@hotmail.com,38,Male,UK,North Larryport,Mobile,Organic,Returning
+529,Crystal Evans,matthewlittle@davis.com,56,Female,Canada,West Amyville,Mobile,Email,New
+530,Mary Black,jackson72@hotmail.com,53,Other,UK,South Christophermouth,Mobile,Social Media,Returning
+531,Gabrielle Cobb,danielsmarco@hotmail.com,50,Male,India,Lucasside,Desktop,Email,Loyal
+532,Denise Bautista,annanderson@murphy.org,47,Other,Canada,Rebeccafort,Mobile,Referral,Loyal
+533,Karen Walker,williamscott@yahoo.com,54,Female,UK,Troybury,Desktop,Social Media,New
+534,Tracy Hayes,ncarpenter@henderson-melendez.info,40,Male,Canada,Irwinchester,Mobile,Social Media,Loyal
+535,Laurie Johnson,ashley05@hotmail.com,27,Female,Australia,Harrellview,Tablet,Organic,Returning
+536,Veronica Bentley,jamie15@gmail.com,22,Female,India,South Patrick,Tablet,Referral,Loyal
+537,John Brown,qbrown@williams.com,53,Male,UK,West Evanborough,Tablet,Paid Ads,New
+538,Dr. Catherine Mueller,twatson@jones.com,51,Male,Australia,Lake Deborahstad,Tablet,Organic,Loyal
+539,Manuel Mejia,sheri41@fisher.net,69,Male,Australia,Port Christopherville,Desktop,Organic,Returning
+540,Lindsay Krueger,victoriaphillips@jimenez-fletcher.com,48,Male,Canada,Tanyaport,Desktop,Email,New
+541,Diane Benson,victoria80@moore.org,27,Male,Australia,Chrisshire,Mobile,Email,Returning
+542,Terry West,patriciabuck@yahoo.com,36,Male,India,East Debrachester,Tablet,Email,New
+543,Christopher Wall,carol70@hernandez.com,49,Male,India,West Bethchester,Desktop,Organic,Loyal
+544,Robert Olsen,kellerraymond@smith.biz,18,Other,USA,North Williamberg,Mobile,Paid Ads,New
+545,Jessica Cruz,franklinedward@hotmail.com,22,Female,India,Nicolehaven,Mobile,Social Media,New
+546,Susan Fletcher,matthewwade@jones.biz,62,Male,Australia,Waltersport,Desktop,Email,Loyal
+547,Sara Church,stewartruth@price.info,21,Other,India,Lake Jessica,Tablet,Paid Ads,Returning
+548,Jessica Ingram DDS,antonio78@pitts.biz,33,Other,Canada,North Amyhaven,Mobile,Referral,Loyal
+549,Shelly Hughes,richard30@williams.com,41,Other,USA,Dominiquehaven,Tablet,Email,New
+550,Rachel Watson,cherylmyers@gmail.com,33,Female,Australia,Hollandberg,Tablet,Social Media,Loyal
+551,Adam Gould,dhamilton@yahoo.com,19,Male,USA,Rodriguezside,Tablet,Referral,New
+552,Shelby Moreno,rayharper@gmail.com,66,Other,Australia,West Hollyfurt,Mobile,Referral,Loyal
+553,Darren Fernandez,caldwelljoshua@hotmail.com,45,Female,Canada,North Meghan,Tablet,Social Media,Loyal
+554,Michael Sutton,lewendy@davis-romero.com,49,Female,USA,Henryville,Mobile,Email,Returning
+555,Ricardo Romero,martinjennifer@yahoo.com,44,Female,UK,Lake Carla,Tablet,Organic,New
+556,Troy Morris,timaguilar@gmail.com,37,Other,Australia,South Adamhaven,Mobile,Social Media,Returning
+557,Mallory Green,rperez@hamilton.com,41,Male,UK,West Denisefurt,Tablet,Social Media,New
+558,Kimberly Chavez,ginasims@curtis.info,29,Other,USA,West Kellybury,Desktop,Social Media,Loyal
+559,Terry Johnson,davidsonjohn@hotmail.com,67,Other,UK,Port Emilyburgh,Tablet,Referral,New
+560,John Brown,jmorrow@yahoo.com,52,Male,UK,New Michelle,Tablet,Paid Ads,Returning
+561,Michelle Chang,watkinsbarbara@gmail.com,50,Male,USA,Royshire,Mobile,Organic,Returning
+562,Kristin Sanchez,dawnmaldonado@harrell-vaughn.com,50,Male,Canada,Garciachester,Mobile,Email,Returning
+563,Michael Ross,timothyware@house.com,68,Female,UK,North Lisa,Tablet,Email,New
+564,Joe Hubbard,emily50@yahoo.com,60,Male,UK,Davischester,Desktop,Paid Ads,Returning
+565,Sharon Wells,donna23@gmail.com,54,Other,Canada,West Tina,Desktop,Social Media,Returning
+566,Robert Gonzalez,kyle58@hotmail.com,29,Male,UK,West Caitlinport,Mobile,Organic,Returning
+567,Mitchell Dunn,jjefferson@gmail.com,20,Other,UK,Grossmouth,Desktop,Email,Loyal
+568,Kristina Haas,thickman@gmail.com,18,Female,UK,West Richardville,Tablet,Email,Loyal
+569,Adrian Charles,kimberly23@huff-roberts.org,50,Other,India,New Sandratown,Mobile,Social Media,New
+570,Elizabeth Ramirez,daniellopez@gutierrez.org,57,Other,Canada,Martinmouth,Tablet,Paid Ads,New
+571,Jared Johnson,lrice@gmail.com,27,Male,UK,Teresatown,Mobile,Organic,Returning
+572,Scott Herring,jeremymckay@evans-gonzales.com,60,Male,Canada,Hawkinsfurt,Mobile,Paid Ads,Loyal
+573,Mr. Michael Holland MD,justin04@brown.com,61,Other,Australia,Stephenton,Mobile,Paid Ads,Returning
+574,Kimberly Pennington,bryan44@rojas.org,46,Male,Australia,Josephborough,Mobile,Organic,Returning
+575,Russell West,llewis@barker-horn.com,30,Female,UK,Bennettstad,Desktop,Organic,Loyal
+576,Charles Lewis MD,kerry19@rodriguez.net,29,Female,Canada,New Alexandrashire,Tablet,Email,Loyal
+577,Jonathan Liu,tsellers@garcia.biz,48,Male,Canada,West Tiffanyport,Tablet,Email,Loyal
+578,Susan Riley,sean61@hotmail.com,63,Female,Canada,East Katherine,Tablet,Organic,New
+579,Jonathan Walker,ibarrajames@mills-willis.com,19,Male,India,South Dustinview,Mobile,Referral,New
+580,Mrs. Danielle Ingram,rogersdanny@gmail.com,68,Other,Australia,West Darrenport,Desktop,Email,Returning
+581,Michelle Barrett,james51@black.com,67,Other,Canada,New Robert,Tablet,Referral,New
+582,Dawn Castaneda,wmartinez@soto-shelton.net,52,Female,Canada,Lauramouth,Desktop,Organic,Loyal
+583,Theresa Guerra,michaelorozco@yahoo.com,40,Male,India,North Wendy,Mobile,Email,Loyal
+584,Nancy Holloway,cruzjamie@rodriguez.biz,34,Male,India,Melissaville,Tablet,Paid Ads,New
+585,Charles Mendoza,parkerryan@yahoo.com,43,Female,Canada,Port Brandy,Desktop,Organic,Returning
+586,Daniel Perry,amann@gmail.com,25,Other,USA,Matthewfort,Mobile,Social Media,Returning
+587,Daniel Mcclain,zachary99@byrd.com,46,Female,Canada,Blakemouth,Desktop,Referral,New
+588,Blake Ross,andersoncourtney@gmail.com,43,Other,Canada,North Lauren,Tablet,Organic,Returning
+589,Lacey Sims,lucasamy@brown.com,27,Male,India,Anthonyberg,Tablet,Organic,Returning
+590,Nicole Porter,sgonzalez@shelton.com,43,Other,India,Vargasbury,Mobile,Email,Returning
+591,Linda Ward,khartman@gmail.com,51,Female,Canada,South Timothystad,Mobile,Email,Loyal
+592,Emily Bentley,ndalton@williams-wallace.com,68,Male,Canada,West Ryanborough,Mobile,Email,Loyal
+593,Elizabeth Miller,smithjose@gmail.com,58,Female,Canada,Kaylafort,Desktop,Social Media,New
+594,Michael Edwards,jamesjones@gmail.com,24,Female,India,Brownville,Desktop,Email,Loyal
+595,Samuel Cooper MD,jeffrey94@yahoo.com,21,Other,Canada,South Chaseville,Desktop,Organic,Returning
+596,Pamela Brown,robertsimpson@hotmail.com,67,Female,Canada,West Sharon,Mobile,Email,Loyal
+597,Jorge Wilson,sandyperkins@yahoo.com,62,Other,UK,Fordmouth,Tablet,Paid Ads,New
+598,George Smith,pandrews@rivers.com,28,Male,USA,Port Kaylachester,Tablet,Email,Loyal
+599,Monica Blankenship,amyproctor@henson-may.org,46,Other,Australia,Reyesmouth,Desktop,Social Media,Returning
+600,Troy Williams,juliakirby@reed-payne.org,53,Male,USA,Masseymouth,Desktop,Paid Ads,Returning
+601,Maria Ross,cynthiaeaton@hotmail.com,42,Other,UK,New Joshuabury,Tablet,Organic,New
+602,Derrick Gonzales,daysharon@yahoo.com,38,Female,Australia,Lindashire,Tablet,Organic,Loyal
+603,Eric Martinez,cohenbridget@moore.com,53,Other,Canada,Timothyhaven,Desktop,Referral,Loyal
+604,Russell Ford,fosterchristina@yahoo.com,27,Other,UK,Davisberg,Desktop,Paid Ads,Loyal
+605,Samuel Johnson,wolfhannah@gmail.com,54,Male,Canada,Shaneshire,Tablet,Referral,Returning
+606,Crystal Clark,theresa26@yahoo.com,26,Female,India,Audreyshire,Mobile,Paid Ads,New
+607,Kyle Taylor,cochrannicole@perez.com,41,Other,UK,Port Michaelville,Desktop,Paid Ads,Loyal
+608,Dawn Carlson,mclay@hotmail.com,52,Female,India,Jorgefurt,Tablet,Social Media,Returning
+609,Christopher Barron,nhartman@gardner.org,66,Other,UK,New Kimberly,Tablet,Referral,Returning
+610,Susan Obrien,cooperdouglas@hotmail.com,52,Other,UK,Lake Jameschester,Tablet,Social Media,Returning
+611,James Fields,wisealec@walker-garrett.com,65,Female,India,Anthonyview,Tablet,Paid Ads,Loyal
+612,Joyce Johnson,sampsonkeith@yahoo.com,53,Other,Australia,Teresafurt,Mobile,Organic,Loyal
+613,Cody Campbell,timothy25@gmail.com,35,Female,USA,Singletonhaven,Tablet,Paid Ads,Loyal
+614,Chris Roy,mary99@yahoo.com,66,Other,Canada,Velezmouth,Desktop,Social Media,Loyal
+615,Martin Daniels,jensennatalie@yahoo.com,56,Male,UK,Feliciatown,Mobile,Referral,Loyal
+616,Shannon Weaver,amysanders@riley-carpenter.com,49,Female,Canada,Shannonville,Tablet,Referral,Loyal
+617,Henry Sanchez,john18@gmail.com,41,Other,India,Karenberg,Mobile,Social Media,Loyal
+618,Brian Gaines,lance39@russell.com,40,Other,Canada,East Jonathan,Desktop,Referral,Loyal
+619,Mr. Jorge Dalton,peter17@haley-warren.com,49,Male,India,Williamport,Tablet,Email,Loyal
+620,Michael Henry,marythomas@ball-ramsey.com,54,Female,Canada,Phillipschester,Desktop,Organic,Returning
+621,Maria Mullen,marthafreeman@reynolds.info,29,Other,USA,Greenfurt,Tablet,Organic,Loyal
+622,Cynthia Castaneda,fordmary@potts.net,66,Male,USA,North Rebeccaport,Tablet,Organic,New
+623,Nicholas Parker,rhays@hotmail.com,30,Other,USA,Gutierrezside,Tablet,Referral,Returning
+624,Jerry Stevens,bburnett@rodgers-stevens.net,40,Female,USA,North Tara,Tablet,Referral,Loyal
+625,Kristina Fox,radams@williams.com,42,Other,USA,Port Monica,Tablet,Paid Ads,New
+626,Miguel Henderson,justinoconnor@gmail.com,52,Other,USA,North Audreyhaven,Mobile,Paid Ads,Loyal
+627,Christina York,vporter@yahoo.com,58,Other,India,East Mark,Tablet,Organic,New
+628,Caleb Kane,amandalewis@nicholson.com,47,Other,UK,Baxtermouth,Tablet,Email,New
+629,Abigail Sanders,sjackson@yahoo.com,34,Male,Canada,Lake Jessestad,Mobile,Paid Ads,New
+630,Zachary Turner,patricklawson@clark.net,66,Male,USA,West Claudiaburgh,Mobile,Paid Ads,New
+631,Mercedes Ellis,hardyrichard@nguyen.info,37,Female,India,Amyside,Mobile,Referral,Returning
+632,Katelyn Wiggins,whiteanthony@gmail.com,65,Male,India,East Amandaberg,Mobile,Email,Returning
+633,Cathy Williams,crussell@castillo.com,42,Male,India,Jonesmouth,Mobile,Organic,New
+634,Carolyn Mcpherson,kaylareid@johnson-boyer.com,39,Female,UK,New Nancyton,Mobile,Paid Ads,Loyal
+635,Shelly Williamson,alanreese@henderson.com,30,Male,Canada,East Josehaven,Tablet,Email,New
+636,Mary Hamilton,wilkinsonwilliam@fuller.com,36,Male,UK,Bakermouth,Tablet,Email,Returning
+637,Amanda Greer,christopherburgess@gmail.com,66,Female,Australia,Port Brent,Desktop,Organic,Loyal
+638,Tara Mcdonald,whitechristopher@elliott.info,53,Female,India,South Tammy,Tablet,Email,Returning
+639,Daniel Lang,tlane@hotmail.com,29,Female,Australia,Gilesmouth,Tablet,Email,Returning
+640,Laura Russell,gregory57@vaughan.com,58,Other,USA,North Anthony,Mobile,Email,Loyal
+641,Nancy Taylor,juliaburton@gmail.com,36,Other,USA,West Destinymouth,Mobile,Paid Ads,New
+642,Michael Pierce,lisagarner@gmail.com,29,Female,UK,East Davidview,Tablet,Organic,New
+643,Joseph Thomas,kelseyramos@hotmail.com,26,Female,Canada,Bernardfurt,Desktop,Email,New
+644,Charles Harris,lisa67@yahoo.com,24,Female,Australia,South Kaylamouth,Mobile,Email,New
+645,Tamara Taylor,watkinsmichele@miller-white.com,45,Other,Canada,East Julia,Tablet,Paid Ads,Loyal
+646,Brett Knox,andrew36@gmail.com,31,Other,UK,New Virginia,Tablet,Organic,Loyal
+647,Christopher Bowen,lmartinez@bentley-cole.net,48,Male,USA,Sotobury,Desktop,Referral,Loyal
+648,Lori Heath,emily07@adams-wright.org,69,Male,Canada,West Erin,Desktop,Paid Ads,Returning
+649,Jonathan Parker,john40@gmail.com,36,Female,Canada,Smithstad,Mobile,Organic,Loyal
+650,Timothy Turner,xbarr@cox-montgomery.com,64,Other,USA,Josephberg,Desktop,Email,New
+651,Sarah Delgado,gjohnston@figueroa.com,33,Other,Australia,South Kimberlyland,Tablet,Organic,Returning
+652,Jennifer Patterson,adam75@hotmail.com,22,Other,USA,Port Michealville,Tablet,Organic,New
+653,Dawn Parker,taylorchristine@hernandez.com,52,Female,Canada,Tomfurt,Desktop,Organic,New
+654,Janice Price,robert92@johnson.com,29,Male,Australia,Davidville,Desktop,Referral,Loyal
+655,Nancy George,kelly31@gmail.com,42,Female,Australia,East Cassandra,Desktop,Organic,Loyal
+656,Brett Hill,uknapp@hotmail.com,69,Male,USA,New Sarabury,Desktop,Referral,New
+657,Tyler Williams,calvin30@martin.org,38,Male,Canada,Scottland,Mobile,Email,New
+658,Kelly Jones,rdavis@hotmail.com,53,Female,UK,Jayland,Desktop,Referral,Returning
+659,Alexis Joyce,ryanwright@kennedy.net,40,Male,Canada,Lake Ryanburgh,Mobile,Email,Loyal
+660,Jeremy Lewis,sheltonsteven@hall-gilbert.net,33,Male,India,North Megan,Tablet,Email,Returning
+661,Victor Williams,youngkevin@yahoo.com,56,Other,UK,East Roberthaven,Desktop,Referral,Returning
+662,Angela Cruz,martinmichael@yahoo.com,62,Male,Australia,Mariamouth,Mobile,Paid Ads,Returning
+663,Jamie Johnson,qbates@bailey.com,59,Female,UK,Sherriburgh,Desktop,Social Media,New
+664,Matthew Taylor,nday@hotmail.com,56,Female,Australia,Port Brandonland,Tablet,Organic,Returning
+665,Shawn Edwards,audrey76@smith.biz,31,Male,Australia,Port Michaelton,Tablet,Social Media,Returning
+666,Karen Monroe,sparksjohn@bowman.com,48,Other,UK,New Jesusland,Tablet,Organic,New
+667,Anna Nguyen,fernando92@payne.com,22,Other,Australia,Melissastad,Desktop,Organic,Loyal
+668,Jennifer Castro,joshuahall@hotmail.com,52,Male,Australia,Hendrixton,Desktop,Email,Loyal
+669,Bradley Jensen,kevinlozano@yahoo.com,40,Male,India,North Michael,Mobile,Organic,Returning
+670,Courtney Shaw,gevans@meyer-stephens.com,46,Female,Canada,Jenniferstad,Tablet,Organic,New
+671,Sara Garza,torrescarlos@sanchez.org,60,Male,Canada,Johnfort,Desktop,Referral,Loyal
+672,Blake Bailey,tyler88@vega-nguyen.com,28,Other,India,Ericaport,Tablet,Social Media,Returning
+673,Seth Murray,jeffrey57@yahoo.com,35,Male,UK,Lake Daniel,Tablet,Referral,Returning
+674,Anthony Ruiz,smithvanessa@yahoo.com,64,Female,USA,Chrismouth,Mobile,Organic,New
+675,Chelsea Harris,baileyjamie@bean-conway.com,29,Female,USA,North Nicholebury,Mobile,Email,Returning
+676,Jessica Wells,kimberly93@gmail.com,26,Female,USA,Karenfort,Mobile,Referral,Loyal
+677,Rhonda Rogers,dawn39@hotmail.com,27,Female,India,Lake Heidishire,Mobile,Referral,New
+678,Terri Murphy,kenneth53@barber.info,61,Female,India,Lake Garrett,Tablet,Paid Ads,Loyal
+679,Daniel Young,harrischarlene@morgan.com,34,Male,Australia,Mendozamouth,Mobile,Organic,Loyal
+680,Linda Simpson,keithross@murphy.com,55,Male,USA,West Cheyennemouth,Mobile,Email,Loyal
+681,Joseph Hernandez Jr.,sreeves@yahoo.com,24,Male,UK,Coxville,Mobile,Referral,Returning
+682,Shannon Ortiz,rodrigueznicholas@wagner.com,63,Male,UK,Jonathanland,Mobile,Referral,Returning
+683,Sean Harrison,graychristopher@gmail.com,30,Female,USA,Lake Darren,Tablet,Email,Loyal
+684,Angela Miller,peterrobinson@hotmail.com,57,Other,USA,West Penny,Mobile,Organic,Loyal
+685,Gregory Lewis,gfitzgerald@brown.net,59,Male,USA,New Lisaview,Tablet,Paid Ads,New
+686,Marc Sanchez,michaeladams@santiago.biz,26,Other,India,New Mitchell,Desktop,Referral,New
+687,Courtney Miller,vwyatt@perez.com,67,Male,India,North Michelleberg,Tablet,Paid Ads,Returning
+688,Holly Perez,fwalter@barnes.com,44,Male,India,Angelashire,Tablet,Social Media,Returning
+689,Brian Johnson,christopher51@yahoo.com,19,Other,Canada,Jonathanmouth,Mobile,Organic,New
+690,Kimberly Wade,hutchinsoncindy@hotmail.com,22,Female,UK,Carlosville,Desktop,Social Media,Loyal
+691,Martha Collins,lawsongary@hotmail.com,46,Male,UK,Woodardtown,Desktop,Social Media,Returning
+692,Jacob Smith,pgonzalez@leblanc-johnston.com,54,Male,Australia,Heatherstad,Desktop,Social Media,Loyal
+693,Daniel Brown,robertmatthews@higgins.info,55,Male,India,Millerfurt,Desktop,Organic,New
+694,Ashlee Kemp,carolinerandolph@gmail.com,36,Other,Canada,New Ronald,Tablet,Organic,Returning
+695,Robert Vazquez,davishenry@griffin.info,25,Female,Canada,South Lorichester,Desktop,Email,Returning
+696,Brian Bryan,jonathanfrost@roach-hernandez.com,65,Other,UK,East Alexanderhaven,Tablet,Paid Ads,New
+697,Luke Owens,rlewis@joseph.info,62,Other,India,Millerland,Tablet,Paid Ads,Returning
+698,Timothy Ford,nicholas43@stewart.com,18,Female,Australia,Vincentchester,Tablet,Email,New
+699,Deborah Phillips,sandersmadeline@brown.com,39,Other,India,Fraziertown,Desktop,Email,Returning
+700,James Mckinney,victoria06@grant-gates.com,69,Female,USA,Kevinburgh,Mobile,Social Media,New
+701,Michael Wheeler PhD,brianmeyer@bridges.info,34,Male,India,Carneybury,Mobile,Email,Returning
+702,Elizabeth Hall,joshuajones@gmail.com,24,Female,USA,Crystalbury,Desktop,Referral,Loyal
+703,Lisa Alvarez,rileyerika@hughes.org,42,Male,USA,Milesbury,Mobile,Paid Ads,Loyal
+704,Jeremiah Phelps,garygreene@nicholson-cervantes.org,62,Other,Australia,North Molly,Mobile,Email,Loyal
+705,Karen Navarro,ralph80@brown-adams.com,21,Other,UK,East Katherine,Tablet,Referral,Returning
+706,Joy Garrett,welchmark@gmail.com,53,Male,India,Lake Kevin,Tablet,Referral,Returning
+707,Willie Nguyen,gordonmartinez@blanchard.com,23,Other,USA,Melendezside,Desktop,Referral,Loyal
+708,William Gallegos,egreen@walsh.com,48,Female,India,Sanfordfort,Desktop,Referral,Loyal
+709,Dennis Huang,icunningham@rangel.org,36,Male,UK,Kevintown,Mobile,Social Media,New
+710,Carrie Miller,timothy15@lopez.biz,61,Other,UK,Billymouth,Tablet,Referral,New
+711,Tom Elliott,wvazquez@carter-snyder.com,56,Male,Canada,East Samantha,Desktop,Social Media,New
+712,Cassidy Young,jramos@roberts.com,44,Female,UK,Johnsonmouth,Desktop,Social Media,Loyal
+713,Jorge Ward,pcruz@johnson-martinez.com,27,Female,Australia,Port Jill,Desktop,Referral,Loyal
+714,Alyssa Schroeder,snyderoscar@yahoo.com,43,Other,USA,Harringtonview,Desktop,Paid Ads,Loyal
+715,Regina Ward,bradleyarmstrong@jones.biz,36,Female,Canada,Gallagherfort,Desktop,Referral,New
+716,Bonnie Russell,valerielewis@harrison.com,56,Male,Australia,Charlesside,Desktop,Referral,Returning
+717,Ronald Kennedy,smiththomas@yahoo.com,20,Female,India,Yolandabury,Mobile,Referral,Loyal
+718,Mr. Steven Lynch,rwelch@gmail.com,62,Male,USA,Hudsonmouth,Tablet,Paid Ads,Returning
+719,Candice Jones,judith36@graham.net,30,Male,UK,Port Ericport,Tablet,Organic,Returning
+720,Joseph Williams,linda03@fields.org,67,Female,USA,Huertafurt,Desktop,Organic,Returning
+721,Lauren Duncan,jessicarios@hotmail.com,45,Other,India,Port Andrew,Tablet,Social Media,New
+722,Amber Juarez,stephenknapp@gmail.com,37,Female,Canada,Mindychester,Tablet,Social Media,Returning
+723,Glenda Mason,shawnyang@robinson.info,45,Male,Canada,New Kaitlynfurt,Tablet,Paid Ads,Loyal
+724,Sarah Young,arichardson@yahoo.com,25,Male,Canada,East Christian,Desktop,Email,New
+725,Amy May,sierra03@gmail.com,58,Female,UK,South Megan,Desktop,Organic,Loyal
+726,Adam Green,lucasjohn@perez.com,56,Other,Australia,Jayport,Tablet,Social Media,Loyal
+727,Arthur Rodriguez,anthony22@hotmail.com,18,Other,Australia,South Todd,Tablet,Organic,New
+728,James Fry,christinesmith@carlson.info,20,Male,USA,West Brittney,Desktop,Paid Ads,Loyal
+729,Casey Harris,anthonyalvarez@hotmail.com,30,Male,UK,Karifort,Mobile,Paid Ads,Loyal
+730,Erica Hartman,austin79@harrington.net,45,Other,Canada,Aaronside,Tablet,Email,New
+731,Gary Roberts,judiththompson@hull-allen.biz,66,Female,Canada,Williamsburgh,Mobile,Email,Loyal
+732,Julie Butler,cwagner@garcia-phelps.info,42,Male,India,Victoriaside,Tablet,Paid Ads,Returning
+733,Amy Thompson,david04@gmail.com,50,Male,India,West Kevinmouth,Mobile,Social Media,Loyal
+734,Trevor Scott,keithbartlett@hotmail.com,55,Other,Canada,Amyport,Mobile,Organic,Returning
+735,Stephen Barrett,morenolauren@yahoo.com,23,Female,Canada,Davisfurt,Mobile,Referral,Loyal
+736,Karen Higgins,timothy06@jackson.com,61,Other,UK,Myersport,Desktop,Email,New
+737,Clayton Fleming,preed@yahoo.com,62,Female,Australia,New Robert,Mobile,Referral,New
+738,Lindsey Moses,aguilarthomas@gmail.com,49,Female,India,Ortegamouth,Mobile,Social Media,Loyal
+739,Warren Graham,ujohnson@wilson.com,62,Female,Australia,Jessicaberg,Mobile,Email,New
+740,Joseph Fitzgerald,peter54@hughes.com,64,Male,UK,South Tanya,Tablet,Referral,Loyal
+741,William King,lfarrell@ramirez.com,38,Other,Canada,Colleenville,Mobile,Social Media,New
+742,Michael Jacobson,andersondenise@gmail.com,33,Other,Australia,West Christopher,Tablet,Organic,Returning
+743,Katherine Morgan,udavenport@simmons-kim.com,38,Female,Canada,South Danielside,Mobile,Social Media,Loyal
+744,Ariel Smith,tanyarichards@white-flores.com,28,Male,Canada,Raymondchester,Mobile,Email,Returning
+745,Eduardo Mendoza,kevin27@gmail.com,54,Male,USA,Greenburgh,Desktop,Paid Ads,Returning
+746,Thomas Benson,rsims@hotmail.com,53,Other,Australia,Lake Juanville,Tablet,Organic,Loyal
+747,Teresa Burgess,michaelfrazier@bridges.com,52,Male,Australia,Hansonhaven,Mobile,Referral,Returning
+748,Rachel Conrad,ronald69@craig-williams.com,36,Male,Canada,Ramireztown,Tablet,Email,Loyal
+749,James Flynn,bryangreen@yahoo.com,37,Female,UK,Rachelville,Tablet,Paid Ads,Returning
+750,Philip Pena,stacy32@hotmail.com,35,Male,USA,North Paulatown,Desktop,Social Media,Loyal
+751,Linda Bartlett,davidramirez@marsh-martinez.com,64,Female,Canada,North Elizabeth,Desktop,Paid Ads,Loyal
+752,Adam Rodriguez,scottharris@gmail.com,58,Other,India,South Vanessa,Desktop,Email,New
+753,James Smith,brandisweeney@yahoo.com,66,Male,India,North Victorshire,Desktop,Email,Loyal
+754,Maria Knapp,connieday@gmail.com,31,Other,USA,Aliciamouth,Desktop,Paid Ads,Loyal
+755,Marie White,martindebra@hotmail.com,32,Other,UK,New Michaelahaven,Desktop,Social Media,Returning
+756,Ricky Casey,frankemily@gmail.com,48,Male,Canada,North Michaelhaven,Desktop,Paid Ads,Loyal
+757,Steven Maldonado,westvanessa@simpson-simon.info,18,Male,Australia,Lake Sheena,Desktop,Email,New
+758,Jordan Hines,jeffreywelch@jones.com,20,Other,USA,Brandonville,Mobile,Email,Returning
+759,Annette Peterson,erik72@kelly-williamson.com,33,Male,UK,Lauramouth,Tablet,Referral,Returning
+760,Brian Andersen,dannyestes@stewart-richards.biz,40,Female,Australia,East Sydney,Desktop,Referral,New
+761,Michael Taylor,heatherschwartz@anthony-young.net,28,Female,India,New Cindy,Desktop,Organic,Returning
+762,Justin Hensley,fford@lopez-fields.com,29,Male,India,Port Ashley,Tablet,Email,Returning
+763,Mrs. Marissa Bennett,debramurphy@gmail.com,27,Other,Australia,East Melissabury,Mobile,Referral,Returning
+764,Jennifer Arnold,evansjoseph@hunt-barr.org,49,Male,USA,Seanview,Tablet,Paid Ads,Returning
+765,Cole Horn,bishopmatthew@gmail.com,33,Male,India,Troybury,Tablet,Social Media,New
+766,Pamela Downs,lrice@yahoo.com,25,Other,Canada,Rodriguezfurt,Desktop,Paid Ads,New
+767,Tracey Sanford,ylopez@byrd.com,55,Other,Australia,West Toddton,Tablet,Social Media,Returning
+768,Maria Castro,brian78@hotmail.com,29,Female,Australia,Briannaland,Tablet,Referral,Returning
+769,Gina Cook,barbara78@fischer.org,41,Other,India,North Geraldport,Desktop,Organic,New
+770,Ross Myers,richardsonpaul@farmer.com,45,Female,USA,Port Jacob,Desktop,Paid Ads,New
+771,Leslie Myers,davisbreanna@hotmail.com,25,Other,Canada,Port Jacquelinemouth,Desktop,Paid Ads,New
+772,Ronald Barker,milesbrittany@hotmail.com,45,Male,USA,Lake Monicashire,Desktop,Paid Ads,Returning
+773,Jennifer Hunt,katherine83@walker.com,53,Female,UK,New Williamland,Tablet,Social Media,Returning
+774,Cynthia Davis,camachobrian@hotmail.com,43,Female,UK,Angelaview,Tablet,Referral,Loyal
+775,Nicholas Sims,martinwillie@schroeder.com,25,Female,India,Elizabethburgh,Mobile,Paid Ads,New
+776,Gregory Lopez,rodriguezmarilyn@lawrence-rosales.com,67,Male,India,Kevinview,Mobile,Paid Ads,Returning
+777,Juan Gonzalez,deborah80@yahoo.com,45,Male,India,East Michaelborough,Tablet,Organic,New
+778,Jennifer Haley,obrienmarcus@wall.com,45,Male,UK,Blakehaven,Mobile,Organic,Returning
+779,Stacy Harris,pstewart@hotmail.com,54,Male,USA,East Brian,Tablet,Referral,New
+780,Crystal Ward,mario19@davis-fox.com,58,Male,USA,Williamshire,Mobile,Referral,Returning
+781,Veronica Powers,brandiwilson@morrow.org,53,Female,India,North Peggy,Desktop,Email,Loyal
+782,Regina Conley,cohenkevin@yahoo.com,44,Male,Canada,Lake Jeffreyview,Mobile,Organic,Loyal
+783,Donna Cohen,dfoster@yahoo.com,34,Female,USA,Dickersonchester,Desktop,Email,New
+784,Brandon Christensen,davidwilkins@brown.com,26,Male,UK,New Jeremy,Desktop,Social Media,Returning
+785,Laura Ho,nancy20@yahoo.com,50,Other,Australia,Anthonychester,Desktop,Email,Returning
+786,Kimberly Collier,kgarner@gmail.com,37,Female,Australia,Samuelville,Desktop,Paid Ads,New
+787,Michael Ramirez,janice12@smith-baxter.com,30,Other,Australia,Patriciamouth,Mobile,Email,Returning
+788,Melinda Williams,derrick53@gmail.com,45,Female,Canada,Whitetown,Tablet,Referral,New
+789,Kelly Mitchell,ckennedy@sanchez-johnson.com,65,Other,India,Nathanberg,Desktop,Social Media,Returning
+790,Bruce Hobbs,joshuawalker@martin.info,46,Male,UK,Ryanborough,Mobile,Paid Ads,New
+791,Mrs. Heather Baker PhD,duransteven@neal.com,30,Male,Canada,Port Tricia,Desktop,Email,Returning
+792,Anthony Russell,smithjames@gmail.com,63,Male,UK,Lake Lorishire,Mobile,Social Media,New
+793,Brittany Ryan,contrerasjoseph@yahoo.com,52,Female,UK,Robertsville,Mobile,Social Media,Returning
+794,Tammy Welch,kevinanderson@gmail.com,23,Other,India,Markfort,Mobile,Paid Ads,Loyal
+795,Kyle Moss,sellerscatherine@gmail.com,35,Male,Australia,Port Terri,Tablet,Email,Returning
+796,Jessica Avila,harriswilliam@williams.org,68,Other,India,Jasonside,Mobile,Social Media,New
+797,Christine Bowen,hcarlson@gray.net,22,Other,Canada,Garzaton,Mobile,Social Media,Loyal
+798,Sandra Greene,monica97@saunders-greene.com,64,Male,Canada,New Jamesborough,Tablet,Organic,Returning
+799,Cynthia Roberts,amy19@gonzalez.biz,42,Male,Canada,East Stephanie,Tablet,Social Media,Loyal
+800,Mrs. Christine Hogan,reedaustin@hopkins.com,19,Other,India,Pooleport,Mobile,Organic,Returning
+801,Rebecca Perry,vdavis@hotmail.com,27,Male,UK,Leonardstad,Tablet,Email,Loyal
+802,Danielle Gardner,yrogers@ramos.org,47,Male,UK,North Kathleenland,Desktop,Email,New
+803,Francisco Lopez,ddecker@odonnell.net,67,Male,USA,Frazierview,Desktop,Email,Returning
+804,Ralph Grant,chandlerkevin@yahoo.com,62,Female,Canada,Randallstad,Tablet,Referral,Returning
+805,Emily Ortega,ashley56@yahoo.com,22,Other,UK,New Michaeltown,Tablet,Email,New
+806,Brian Carlson,bhoover@evans.com,50,Other,USA,Mayerfort,Mobile,Social Media,Loyal
+807,Emily Frazier,tinawilliamson@walls.com,18,Female,UK,East Andrestad,Tablet,Paid Ads,New
+808,Joshua Webster,crawfordsarah@yahoo.com,35,Other,Canada,East Isaacstad,Mobile,Organic,New
+809,Samuel Patterson,danielleweaver@gmail.com,49,Male,Australia,Paultown,Desktop,Referral,Loyal
+810,Kenneth Jones,dawn98@yahoo.com,64,Other,Canada,Port Kathrynmouth,Tablet,Email,New
+811,Troy Rodriguez,irodriguez@hotmail.com,66,Male,India,Justinshire,Mobile,Email,Returning
+812,Mark Ruiz,dawsonkiara@yahoo.com,28,Female,UK,Port Philip,Mobile,Paid Ads,Returning
+813,Douglas Kelly,christopher18@villegas.com,38,Male,UK,North Gregoryberg,Desktop,Paid Ads,Returning
+814,Amy Rodriguez,zshort@yahoo.com,43,Other,India,Evansview,Tablet,Referral,New
+815,Patricia Mathews,katelynclark@white.com,42,Other,India,North Davidland,Desktop,Organic,Returning
+816,Charles Brown,adam68@obrien.info,39,Other,Australia,Kelseyborough,Mobile,Email,Returning
+817,Sherry Perez,pjackson@gonzalez.com,44,Female,UK,Johnsonhaven,Mobile,Referral,Returning
+818,Judith Winters,qandrews@gmail.com,66,Female,UK,Port Joseph,Tablet,Social Media,Returning
+819,Meagan Joseph,zwolfe@hotmail.com,30,Other,Australia,Port Joel,Mobile,Social Media,Returning
+820,Amber Henderson,petersongregory@gmail.com,50,Male,USA,New Lindsay,Tablet,Referral,Returning
+821,Heidi Pham,jonesjoe@jones.org,51,Female,Australia,Rachelbury,Desktop,Email,New
+822,Tara Mack,qmartin@gmail.com,58,Other,Canada,Jameshaven,Tablet,Referral,Returning
+823,Raymond Jenkins,david67@taylor-ramos.com,52,Other,UK,North Christopher,Tablet,Email,Returning
+824,Mary Terry,imoore@patterson.com,18,Female,India,Davisborough,Mobile,Paid Ads,Loyal
+825,Lisa Franklin,ulang@hotmail.com,38,Female,Canada,Lake Juan,Mobile,Referral,New
+826,Maureen Macdonald,tpacheco@yahoo.com,65,Female,UK,Port Courtneyborough,Tablet,Email,New
+827,Ann Braun,hermanscott@yahoo.com,23,Male,Australia,West Allenview,Mobile,Referral,New
+828,Katelyn Walker,lawrence37@reid.com,45,Male,Canada,Matthewmouth,Mobile,Referral,New
+829,Dr. Samantha Singleton MD,colemantammy@gmail.com,34,Other,UK,East William,Mobile,Email,Returning
+830,Stephanie Cline,qadams@gmail.com,22,Female,USA,Deleonshire,Tablet,Email,Returning
+831,Joshua Sullivan,ujones@white.biz,48,Male,USA,Blackside,Mobile,Organic,Loyal
+832,Jose Stewart,orozcolouis@howell.com,22,Female,India,North Thomas,Tablet,Referral,Loyal
+833,Robert Brown,rbradley@gmail.com,55,Other,UK,West Gregoryside,Mobile,Social Media,New
+834,Michael Bruce,robertmason@williams.com,20,Male,USA,Branchport,Desktop,Referral,Loyal
+835,Jesus Walker,jonathan27@hotmail.com,40,Male,Australia,Amandafort,Mobile,Referral,Loyal
+836,Sharon Brown,fadams@hotmail.com,54,Male,UK,West Jessica,Mobile,Email,New
+837,Victoria Franklin,featon@hotmail.com,54,Other,Australia,Collinborough,Tablet,Referral,New
+838,Rodney Brown,kevinbradford@gmail.com,27,Female,Australia,New Kenneth,Tablet,Referral,Loyal
+839,Angela Rowe,moorejack@yahoo.com,27,Male,USA,Christopherfurt,Mobile,Social Media,Returning
+840,Kimberly Riley,jeffreymeyer@fleming.com,36,Other,UK,North Cassandratown,Desktop,Email,Loyal
+841,Daniel Craig,lisa18@kirby.com,34,Female,Canada,Henryfurt,Mobile,Referral,Loyal
+842,Monica Banks,paulhodge@silva-diaz.net,38,Other,USA,Brownton,Mobile,Paid Ads,Returning
+843,Robin Wallace,cherylaguilar@hamilton-wise.com,31,Female,USA,Brownside,Desktop,Organic,Returning
+844,Cody Edwards,burtoncarrie@yahoo.com,26,Other,UK,South Jessica,Tablet,Social Media,New
+845,Kathy Williams,margaretgraham@long.com,63,Female,UK,East Tyronestad,Mobile,Referral,New
+846,Dylan Knight,bradleyaguilar@gmail.com,18,Male,Australia,South Marthamouth,Tablet,Paid Ads,Loyal
+847,Eric Shaw,simpsonjames@gmail.com,68,Female,UK,East Jasonmouth,Tablet,Referral,Returning
+848,Sean Armstrong,richard54@gmail.com,62,Other,Australia,New Thomas,Desktop,Referral,New
+849,Brandi Hall,lnichols@gmail.com,30,Other,USA,West Maureenside,Desktop,Email,Loyal
+850,William Harper,jonathan58@hill.net,21,Female,India,Markside,Tablet,Email,Returning
+851,Misty Glenn,redwards@hotmail.com,18,Male,Canada,Davidtown,Mobile,Email,Loyal
+852,Debra Martin,matthewshepherd@gmail.com,66,Male,USA,Robertsonland,Tablet,Paid Ads,New
+853,Curtis Hall,michael16@harvey.info,57,Female,UK,Port Keithburgh,Mobile,Referral,New
+854,Anthony Alvarez,cwilson@yahoo.com,49,Female,Canada,South Mary,Mobile,Organic,Returning
+855,Joy Bush,brianna44@hotmail.com,51,Other,India,Gamblehaven,Desktop,Social Media,Loyal
+856,Cory Gardner,brittany57@morris.com,45,Male,India,Lake John,Mobile,Email,Returning
+857,Mrs. Mary Johnson,davidmcgee@gmail.com,48,Female,Australia,Codyshire,Mobile,Email,New
+858,Maria Barker,housemichael@yahoo.com,25,Male,Canada,Andersonshire,Tablet,Referral,New
+859,Jack Willis,wilsonjoe@hotmail.com,56,Female,Australia,East Carolview,Desktop,Referral,Loyal
+860,Benjamin Wyatt,harrismichael@yahoo.com,43,Female,USA,New Cassandraview,Mobile,Paid Ads,Loyal
+861,Steven Smith,bellheather@jones.info,51,Male,Canada,Emmachester,Mobile,Paid Ads,Loyal
+862,Sarah Wolf,bcervantes@hotmail.com,20,Female,USA,West Megan,Desktop,Email,Returning
+863,Deborah Jacobson,mirandachan@hicks.biz,67,Female,Australia,Pughshire,Tablet,Referral,Loyal
+864,Tracey Wright,rachel20@nixon.com,29,Other,Canada,South Jasonside,Desktop,Organic,Loyal
+865,Alan Chavez,urice@gallagher.org,18,Female,Australia,Jamesberg,Desktop,Social Media,New
+866,Ronald Chen,frazierscott@davis-mclean.com,61,Female,Canada,Angelatown,Mobile,Referral,New
+867,Julia Malone,jenniferblack@yahoo.com,22,Female,Australia,Carolynland,Mobile,Referral,Loyal
+868,Alexandra Allen,brandonfigueroa@sanchez.info,47,Other,India,Garnerstad,Tablet,Paid Ads,Loyal
+869,Dr. Megan Prince,amber61@gmail.com,47,Male,Australia,North Tamara,Mobile,Social Media,New
+870,William Bray,gregory92@hotmail.com,34,Other,India,Margaretbury,Mobile,Email,Loyal
+871,Adam Rogers,rhardy@williams.com,65,Other,Australia,Welchport,Desktop,Referral,Returning
+872,Joel Wallace,mbaldwin@gmail.com,64,Male,Canada,Jonesburgh,Mobile,Email,Returning
+873,Robert Ellis,thomas63@hotmail.com,40,Other,Canada,West Robertside,Tablet,Referral,Returning
+874,Thomas Kelly,davidherman@bright.com,32,Male,Canada,West Mirandatown,Desktop,Email,Loyal
+875,Emily Hernandez,lance00@yahoo.com,54,Other,UK,West Destiny,Tablet,Social Media,New
+876,Jessica Williams,butlerjennifer@yahoo.com,38,Male,USA,West Ashley,Desktop,Paid Ads,Loyal
+877,Tiffany Brennan,vmartin@chavez.com,31,Female,Canada,Lisaton,Mobile,Social Media,Loyal
+878,Brandon Stewart,samuelrivera@martinez-martin.com,19,Other,India,Larryhaven,Desktop,Organic,New
+879,Felicia Bell,tamarajohnson@hotmail.com,28,Other,Canada,Davidsontown,Desktop,Paid Ads,New
+880,Brian Carter,daughertyjames@fernandez.com,68,Other,UK,Sharonside,Mobile,Social Media,New
+881,Gregory Phelps,adamstamara@gmail.com,56,Other,India,Martineztown,Mobile,Organic,Returning
+882,Thomas Fisher,caitlin32@martinez-white.info,55,Female,UK,Chelseaville,Tablet,Referral,Loyal
+883,Lauren Allen,davidrandolph@hotmail.com,51,Other,India,Ballhaven,Tablet,Referral,New
+884,Amanda Ferrell,udunlap@hotmail.com,55,Female,Australia,West Nicholas,Mobile,Email,Loyal
+885,Jennifer Bartlett,sullivanwesley@rivera-washington.org,67,Female,USA,New Donna,Mobile,Paid Ads,Returning
+886,Ariana Gilmore,jeffrey42@glover.com,51,Female,USA,South Christopherstad,Mobile,Referral,Returning
+887,John Wood,pricetiffany@reed.biz,35,Female,UK,West Russellchester,Desktop,Paid Ads,New
+888,Brandy Cordova,olsenrebecca@johnson.info,47,Male,USA,Allenville,Desktop,Referral,New
+889,Dawn Cunningham,lmoore@maynard-washington.org,32,Male,UK,East Jordanbury,Desktop,Email,Loyal
+890,Kelsey Mitchell,jsanders@lynch-hahn.com,44,Other,UK,Lake James,Mobile,Social Media,New
+891,Robert Peterson,peter09@hood.biz,68,Male,UK,Waremouth,Tablet,Email,Loyal
+892,Zachary Peters,angelarivera@johnson.org,51,Male,USA,Milesmouth,Mobile,Organic,New
+893,Derrick Brown,lperry@hotmail.com,69,Other,UK,Melissaview,Desktop,Referral,Loyal
+894,Mr. Benjamin Mcclure Jr.,arellanobrandon@gmail.com,55,Other,USA,Johnsonland,Desktop,Organic,Loyal
+895,Elizabeth Carrillo,aprilgamble@smith-oneill.com,50,Other,UK,South George,Mobile,Organic,Loyal
+896,Wanda Green,mmartin@white-mueller.com,41,Male,Canada,West James,Mobile,Paid Ads,Loyal
+897,Alex Davis,sanchezolivia@hotmail.com,32,Male,UK,Robbinston,Desktop,Referral,Returning
+898,Taylor Ford,tammy68@hotmail.com,47,Other,India,East Sarahberg,Desktop,Organic,Loyal
+899,Kathleen Kennedy,mwilliams@hotmail.com,59,Female,UK,Stoneland,Desktop,Social Media,New
+900,Eric Jones,phillipstiffany@gmail.com,68,Other,Australia,New William,Mobile,Organic,Returning
+901,Sheila Joseph,ebrooks@herrera-bennett.org,34,Female,UK,Port Mercedestown,Desktop,Social Media,Returning
+902,John Armstrong,david52@hernandez-guerrero.com,22,Female,India,East Joseph,Desktop,Paid Ads,Loyal
+903,Steven Henderson,victoriamiller@white.com,46,Other,India,Port Christopher,Tablet,Organic,Returning
+904,Jessica Rivera,savannah25@brooks.com,21,Other,USA,Medinaview,Mobile,Email,Loyal
+905,Molly Porter,yrussell@gmail.com,27,Other,Canada,Yolandashire,Tablet,Paid Ads,New
+906,Jennifer Brown,brandonrobinson@yahoo.com,34,Male,UK,Guerrerobury,Tablet,Social Media,Loyal
+907,Linda Simmons,hlowe@gmail.com,27,Female,USA,Lake Ryanhaven,Desktop,Paid Ads,Returning
+908,Joseph Garcia,reginabarnett@yahoo.com,34,Male,Canada,Martinezfurt,Mobile,Organic,New
+909,Dustin Weaver,susan58@yahoo.com,37,Male,UK,Gordonchester,Desktop,Referral,Loyal
+910,Bradley Hall,millerdonna@yahoo.com,41,Other,Australia,New Andrew,Mobile,Referral,New
+911,Kevin Whitney,yolanda16@yahoo.com,22,Male,UK,South Nicholasside,Tablet,Social Media,New
+912,Thomas Herring,schultzrobert@shea-lewis.com,51,Other,India,New Rebeccaberg,Mobile,Social Media,Returning
+913,Amanda Burch,ztorres@mccann.com,23,Female,India,South Jonathanview,Desktop,Referral,New
+914,Ashley Patel,kayla89@gmail.com,19,Other,Australia,Susanfort,Desktop,Social Media,Returning
+915,Karen Schneider,david45@arnold.com,30,Male,USA,Wilkersonside,Desktop,Paid Ads,New
+916,Mark Moyer,robin35@johnson.net,60,Male,Canada,Williamshire,Mobile,Email,Loyal
+917,Nathaniel Cook,reynoldskimberly@yahoo.com,60,Other,UK,Port Richard,Tablet,Email,New
+918,John Webster,teresa72@gmail.com,65,Other,India,North Robertport,Tablet,Paid Ads,Loyal
+919,Anna Duncan,stevenlogan@lee.com,28,Male,USA,Bishophaven,Mobile,Email,Loyal
+920,Colin King Jr.,djenkins@hudson-rogers.net,68,Female,Australia,New Rodney,Desktop,Organic,New
+921,Kevin Hood,ericsmith@yahoo.com,64,Female,India,South Aaron,Tablet,Paid Ads,Loyal
+922,Christine Neal,matthew84@gmail.com,40,Other,Australia,Kaylaberg,Desktop,Social Media,New
+923,James Johnson,vincentshea@gmail.com,33,Female,UK,Lake Denise,Mobile,Paid Ads,New
+924,Marissa Bailey,andreamedina@hotmail.com,48,Male,Canada,Port Samantha,Desktop,Referral,Loyal
+925,Cynthia Blankenship,wilkinsondwayne@thomas.com,28,Other,India,Jeffersontown,Tablet,Social Media,Loyal
+926,James Jones,robertjimenez@clark.com,33,Male,India,Sanchezville,Tablet,Referral,Returning
+927,Carolyn Kaufman,spencerbryan@yahoo.com,25,Male,UK,Meyerton,Desktop,Social Media,Loyal
+928,Meredith Watson,rnguyen@yahoo.com,21,Female,USA,New Elizabeth,Mobile,Email,Returning
+929,Joshua Tran,elliottstephanie@gmail.com,57,Other,Canada,Jesseton,Desktop,Paid Ads,Loyal
+930,Jeremy Barry,barretterica@tyler.net,21,Other,India,North Tristanbury,Mobile,Organic,New
+931,Anthony Garcia,huffbethany@gmail.com,42,Female,Canada,Courtneytown,Desktop,Social Media,Loyal
+932,Amanda Martinez,haileyperez@gmail.com,20,Male,India,Port Craig,Tablet,Social Media,New
+933,Dr. Richard Stephens,shawningram@yahoo.com,49,Male,Canada,Denisehaven,Mobile,Referral,New
+934,Jeremy Johnson,carolreyes@thomas-green.biz,20,Male,Australia,Rossberg,Mobile,Email,New
+935,Melissa Jackson,brandonlambert@mendoza-alexander.com,44,Male,India,Brewerhaven,Mobile,Referral,Returning
+936,Nicholas Odonnell,dennisroger@gmail.com,46,Other,Canada,Port Cindyland,Tablet,Referral,Loyal
+937,James Lamb,gabrielle57@saunders.net,49,Other,USA,Deborahview,Desktop,Email,New
+938,Kayla Garcia,tammyvega@yahoo.com,67,Female,Australia,Lake Dillonberg,Tablet,Organic,New
+939,Jose Blanchard,gutierrezmichael@gmail.com,68,Female,Australia,Port Sharon,Mobile,Referral,Returning
+940,Robert Saunders,madison79@gutierrez-johnson.com,36,Other,USA,Lake Jessica,Desktop,Referral,Loyal
+941,Scott Lee,hsuarez@espinoza.com,38,Other,Canada,Millerside,Tablet,Social Media,Loyal
+942,Jessica Dickerson,brucekristin@santana.com,22,Male,UK,South Kyletown,Mobile,Email,Returning
+943,Jesse Richards,bartonannette@cantrell-ware.org,35,Male,USA,Priceview,Mobile,Paid Ads,Returning
+944,Spencer Lewis,john01@thompson-lowe.net,45,Female,Canada,South Ronaldport,Tablet,Organic,Loyal
+945,Melissa Kelly,williamsjohnathan@ramos.com,59,Other,USA,Whiteside,Tablet,Organic,Returning
+946,Laurie Goodwin,matthewhahn@grimes-sanford.com,39,Female,USA,South Lisa,Tablet,Email,Loyal
+947,Cole Wallace,byrdjuan@robles.com,38,Other,India,Gallegosland,Mobile,Social Media,Loyal
+948,Erin Foley,greencourtney@hotmail.com,23,Male,Canada,West Josephhaven,Tablet,Social Media,New
+949,Christina Hunt,jamesmitchell@yahoo.com,18,Female,UK,New Nathaniel,Mobile,Email,New
+950,Brenda Taylor,zparker@ortega-white.com,22,Female,India,Wardchester,Tablet,Social Media,Loyal
+951,Brian Orozco,david15@cole.com,58,Other,USA,South Williamtown,Mobile,Organic,Loyal
+952,Jeffrey Blackwell,nicholasvalentine@carr.com,29,Male,USA,Jamesmouth,Mobile,Organic,Loyal
+953,Alexander Schneider,hansonheather@hotmail.com,43,Female,USA,Edwardsmouth,Desktop,Paid Ads,Loyal
+954,Janet Mcmahon,yweber@gmail.com,63,Male,Canada,Michaelberg,Tablet,Email,Loyal
+955,Cynthia Smith,torresian@glass.biz,51,Female,Canada,Teresamouth,Tablet,Referral,Loyal
+956,Veronica Johnson,bullockjody@cuevas.com,66,Male,India,North Rachel,Mobile,Referral,Returning
+957,Dawn Sanchez,william19@cook-estrada.com,31,Other,UK,North Michaelmouth,Mobile,Paid Ads,Loyal
+958,Sean Byrd,wwashington@castro-johnson.info,43,Female,India,Kevinchester,Mobile,Paid Ads,Returning
+959,Dr. Alyssa Martin,jwoods@tate-schroeder.org,62,Female,Australia,New Joseburgh,Desktop,Social Media,Returning
+960,Brian Woodard,csmith@gmail.com,44,Male,USA,West Courtney,Desktop,Paid Ads,Loyal
+961,Melinda Kelly,bschmidt@yahoo.com,26,Male,USA,Nicholasmouth,Mobile,Paid Ads,Loyal
+962,Terrence Hines,donaldwalker@hotmail.com,43,Female,USA,Sanchezbury,Tablet,Referral,Returning
+963,Ryan Pacheco,nlopez@jenkins.biz,64,Other,India,Glennburgh,Tablet,Social Media,Returning
+964,Charles Martinez,markwalker@gmail.com,39,Male,India,New Scottville,Desktop,Paid Ads,Loyal
+965,Anthony Gonzalez,peterfrederick@hotmail.com,64,Male,USA,Watkinsberg,Desktop,Paid Ads,Loyal
+966,Kelsey Moore,bradleyshelby@jenkins-king.com,47,Male,India,Joshuaview,Mobile,Social Media,Returning
+967,Willie York,marisa70@hotmail.com,60,Female,Canada,South Meganmouth,Tablet,Email,Returning
+968,Alison Hall,ruth31@hotmail.com,65,Female,Canada,South Lisashire,Mobile,Social Media,Returning
+969,Frank Clements,msmith@obrien.com,34,Female,India,Dennisstad,Desktop,Referral,New
+970,Amy Duncan,yruiz@hotmail.com,43,Female,USA,West Paulmouth,Tablet,Email,Returning
+971,Troy Baker,alejandrothomas@wright-martinez.com,53,Other,India,Lake Todd,Tablet,Organic,New
+972,Debbie Summers,lisa88@hurst-salazar.com,18,Other,India,Prestonbury,Desktop,Social Media,Loyal
+973,Sandra Smith,equinn@meadows-mendoza.com,25,Female,India,Port Tyler,Mobile,Referral,Loyal
+974,Derek Hunt,jasonmitchell@nelson.com,66,Other,Australia,Mannfort,Mobile,Email,Returning
+975,Heather Garcia,denisewilliamson@martin.info,52,Male,Canada,Smithside,Tablet,Social Media,Loyal
+976,Linda Patterson,richard51@hansen.net,69,Male,UK,Matthewstad,Desktop,Paid Ads,Loyal
+977,Joshua Baker,markmiller@mcguire.com,32,Male,UK,Port John,Tablet,Social Media,Loyal
+978,Kiara Montoya,jeffrey55@gmail.com,64,Female,Australia,West Charlesport,Desktop,Organic,Loyal
+979,Christopher Marks,jordanmichael@gmail.com,39,Male,India,Greerhaven,Mobile,Social Media,New
+980,Norma Diaz DDS,housecody@gmail.com,31,Other,Australia,Hawkinstown,Desktop,Email,New
+981,Michelle Rodriguez,georgecastillo@torres.net,43,Female,Australia,Blackburnland,Mobile,Email,Returning
+982,Kristin Arias,uparker@yahoo.com,45,Other,USA,Knappshire,Desktop,Social Media,Returning
+983,Jane Bradley,steven32@bryant-stark.com,40,Male,Canada,Hartburgh,Tablet,Email,Returning
+984,Mrs. Angela Beck,bakeralisha@gmail.com,31,Male,UK,Johnsonfurt,Mobile,Paid Ads,Loyal
+985,Timothy Rodriguez,yujennifer@yahoo.com,41,Male,India,Lake Samantha,Tablet,Social Media,Loyal
+986,Virginia Howard,bellsandra@newman.com,19,Female,UK,Whitemouth,Tablet,Paid Ads,New
+987,Andrew Neal,william74@hotmail.com,62,Other,UK,New Georgemouth,Mobile,Paid Ads,New
+988,Jennifer Bradley,angela17@gmail.com,43,Female,Canada,West Amanda,Mobile,Referral,Returning
+989,Richard Navarro,matthewmcmahon@hotmail.com,31,Female,UK,New Joseph,Tablet,Social Media,New
+990,Anthony Paul,joshua88@hotmail.com,68,Male,UK,Port Karenport,Tablet,Email,New
+991,Shannon Curry,bradley27@hernandez.net,24,Female,Australia,Gutierrezside,Tablet,Paid Ads,New
+992,Yvette Mendez,zachary60@gmail.com,20,Female,Canada,North Leah,Tablet,Referral,New
+993,Annette Carr,rtran@yahoo.com,64,Male,USA,Williamsborough,Mobile,Social Media,New
+994,Kathy Thompson,stacylee@gmail.com,40,Female,India,Ericstad,Mobile,Social Media,Returning
+995,Brenda Brown,suzanneerickson@oconnor-hall.com,63,Male,UK,New Cory,Tablet,Organic,Returning
+996,David Coffey,stanley70@cox.net,60,Male,India,Port Sarahbury,Desktop,Organic,New
+997,Kelsey Warren,carlosyoung@gmail.com,64,Male,USA,New Ryanton,Desktop,Paid Ads,Returning
+998,Christopher Hill,jdavis@walker-smith.biz,62,Male,India,East Wayneberg,Mobile,Organic,Loyal
+999,Christina Ashley,jeffreyparks@gmail.com,35,Female,USA,Port Derrick,Tablet,Paid Ads,New
+1000,Heather Horne,kaylawilkins@joyce.com,55,Male,Australia,Howardmouth,Tablet,Email,Loyal
