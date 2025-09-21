@@ -1,4 +1,5 @@
 Customer 360° Analytics for E-commerce
+
 🔹 1. Descriptive Analytics (What happened?)
 Customer profile dashboard (demographics, location, device, acquisition channel)
 
